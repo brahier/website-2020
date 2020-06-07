@@ -1,0 +1,20 @@
+<!-- Banner -->
+<section {{ with .Params.id }}id="{{ . }}"{{ end }}>
+<div class="content">
+    <header>
+    <h1>{{ .Title | markdownify }}</h1>
+    {{ with .Params.subtitle  | markdownify}}<p>{{ . }}</p>{{ end }}
+    </header>
+    <p>{{ .Content | markdownify }}</p>
+    {{ with .Params.action }}
+    <ul class="actions">
+    <li><a href="{{ .href }}" class="button big">{{ .text }}</a></li>
+    </ul>
+    {{ end }}
+</div>
+{{ with .Params.image }}
+<span class="image object">
+    <img src="{{ .href }}" alt="" />
+</span>
+{{ end }}
+</section>

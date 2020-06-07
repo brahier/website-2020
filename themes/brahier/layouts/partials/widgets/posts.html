@@ -1,0 +1,22 @@
+<!-- Section -->
+<section>
+    <header class="major">
+        <h2>{{ .Title }}</h2>
+    </header>
+    <div class="posts">
+        {{ range .Params.post }}
+        <article>
+            {{ with .image }}
+            <a href="{{ .href }}" class="image"><img src="{{ .src }}" alt="{{ .alt }}" /></a>
+            {{ end }}
+            <h3>{{ .title }}</h3>
+            <p>{{ .description | markdownify }}</p>
+            {{ with .action }}
+            <ul class="actions">
+                <li><a href="{{ .href }}" class="button">{{ .text }}</a></li>
+            </ul>
+            {{ end }}
+        </article>
+        {{ end }}
+    </div>
+</section>

@@ -1,0 +1,8 @@
+baseURL = "https://thirsty-shannon-e38728.netlify.app/"
+languageCode = "fr-ch"
+title = "Centre Equestre de Corminboeuf"
+
+theme = "brahier"
+
+[markup.goldmark.renderer]
+unsafe= true

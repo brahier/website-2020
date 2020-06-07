@@ -1,0 +1,26 @@
+<section>
+    <div class="align-center">
+        <img src="images/logo.png">
+    </div>
+</section>
+{{- if .Params.searrch.active -}}
+{{- partial "widgets/search.html" . -}}
+{{- end -}}
+{{- partial "nav.html" . -}}
+
+{{ $special := slice "contact" }}
+{{ range where (where site.RegularPages "Type" "sidebar") ".File.ContentBaseName" "not in" $special }}
+{{ if .Params.active}}
+<section>
+    <header class="major">
+        <h2>{{ .Title }} - {{ .File.ContentBaseName }}</h2>
+    </header>
+    {{ .Content }}
+</section>
+{{ end }}
+{{ end }}
+
+{{ range where (where site.RegularPages "Type" "sidebar") ".File.ContentBaseName" "contact"}}
+    {{ $widgetPath := printf "widgets/%s.html" .File.ContentBaseName }}
+    {{- partial $widgetPath . -}}
+{{ end }}
