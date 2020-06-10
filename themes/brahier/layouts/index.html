@@ -1,10 +1,6 @@
 {{ define "main" }}
-<main aria-role="main">
-
-  {{ range where site.RegularPages "Type" "home" }}
-    {{ $widgetPath := printf "widgets/%s.html" .Params.widget }}
-    {{- partial $widgetPath . -}}
-  {{ end }}
-
-</main>
+{{ range where site.RegularPages "Type" "home" }}
+  {{ $widgetPath := printf "widgets/%s.html" .Params.widget }}
+  {{- partial $widgetPath . -}}
+{{ end }}
 {{ end }}

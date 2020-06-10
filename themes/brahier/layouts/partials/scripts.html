@@ -2,6 +2,6 @@
 {{ $scripts := slice "jquery.min.js" "browser.min.js" "breakpoints.min.js" "util.js" "main.js" -}}
 {{ range $scripts }}
   {{ $path := print "js/" . }}
-  <script src="{{ $path | absURL }}"></script>
+  <script src="{{ $path | relURL }}"></script>
 {{ end }}
-
+{{ partial "firebase.html" . }}

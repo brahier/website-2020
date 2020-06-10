@@ -1,0 +1,22 @@
+{{ $epr := index $.Page.Params.horaire (.Get "key") }}
+<table style="white-space: nowrap">
+<tbody>
+{{ range $epr }}
+<tr>
+<td>
+<div class="row">
+<div class="col-2 col-4-small">Epreuve {{ .no }}</div>
+<div class="col-2 col-4-small">{{ .heure }}</div>
+<div class="col-2 col-4-small">{{ .cat }}</div>
+<div class="col-2 col-6-small"><a href="#" class="button">Liste de start</a></div>
+<div class="col-4 col-6-small"><a href="#" class="button">Résultats</a></div>
+
+</div>
+<div class="row">
+<div class="col-12">Prix...</div>
+</div>
+</td>
+</tr>   
+{{ end}}
+</tbody>
+</table>

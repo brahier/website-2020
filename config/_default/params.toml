@@ -1,5 +1,13 @@
 author = "Jacques Supcik"
 description = ""
 
+[firebase]
+    version = "7.15.0"
+    apiKey = "AIzaSyAO1b4BoYrjulKdELNjDHqM943uk8F-Fg0"
+    projectId = "brahier-ch"
+    senderId = "373862633172"
+    appId = "1:373862633172:web:bb5117249ee8f823a23541"
+    measurementId = "G-SZV7QWLBGR"
+
 [social]
     facebook = "centre.equestre.corminboeuf"
