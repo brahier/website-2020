@@ -1,0 +1,17 @@
+[[main]]
+identifier = "home"
+name = "Accueil"
+url = "/"
+weight = -210
+
+[[main]]
+name = "Parcours d'entraînements"
+parent = "concours_2020"
+url = "#"
+weight = -30
+
+[[main]]
+name = "14 - 15 mars"
+parent = "concours_2020"
+url = "#"
+weight = -10

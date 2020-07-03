@@ -1,6 +1,8 @@
 {{ define "main" }}
 {{ range where site.RegularPages "Type" "home" }}
+  {{ if ne .Params.disabled 1}}
   {{ $widgetPath := printf "widgets/%s.html" .Params.widget }}
   {{- partial $widgetPath . -}}
+  {{ end }}
 {{ end }}
 {{ end }}

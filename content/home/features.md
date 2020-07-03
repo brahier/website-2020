@@ -2,20 +2,32 @@
 widget = "features"
 weight = 2
 title = "Nos activités"
+disabled = 1
 
 [[feature]]
-title = "Leçons"
-icon = "fa-gem"
-description = """
-Leçons de saut et de dressage
-"""
-
-[[feature]]
-title = "Concours"
+title = "Commerce de poneys et de chevaux"
 icon = "fa-horse"
 description = """
-Leçons de saut et de dressage 
 """
+
+[[feature]]
+title = "Ecole d'équitation"
+icon = "fa-horse"
+description = """
+"""
+
+[[feature]]
+title = "Camps et stages"
+icon = "fa-horse"
+description = """
+"""
+
+[[feature]]
+title = "Manifestations hippiques"
+icon = "fa-horse"
+description = """
+"""
+
 
 +++
 

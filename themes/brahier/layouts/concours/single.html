@@ -1,9 +1,72 @@
 {{ define "main" }}
-<section>
+<section class="concours">
     <header class="main">
         <h1>{{ .Title }}</h1>
     </header>
-
     {{ .Content }}
 </section>
+{{ end }}
+{{ define "custom-script" }}
+<script>
+    $(document).ready(() => {
+        const storage = firebase.storage()
+        const storageRef = storage.ref().child("concours").child("{{ .Params.folder }}")
+        storageRef.list().then(result => {
+            let promises = []
+            result.items.forEach(e => {
+                const parts = e.name.split('-')
+                if (parts.length < 2) {
+                    return
+                }
+                let eprNo = 0
+                let serieNo = undefined
+                let t = parts[parts.length-2].normalize().match(/^e(\d+)(?:s(\d+))?(?:\s(.+))?/)
+                if (t) {
+                    eprNo = parseInt(t[1])
+                    serieNo = parseInt(t[2])
+                    descr = (t[3])
+                } else {
+                    return
+                }
+                t = parts[parts.length-1].normalize()
+                if (t.startsWith("sta") || t.startsWith("dep") || t.startsWith("dép")) {
+                    let div = $("#start-" + eprNo)
+                    if (div) {
+                        let label = "Liste de start"
+                        if (descr) {
+                            label = label + " " + descr
+                        }
+                        let li = $('<li><a target="_blank">' + label + '</a></li>').hide()
+                        div.children("ul").append(li)
+                        promises.push(e.getDownloadURL().then(url => {
+                            div.children("i").hide()
+                            li.show()
+                            li.children("a").attr("href", url)
+                        }))
+                    }
+                } else if (t.startsWith("res") || t.startsWith("rés")) {
+                    let div = $("#result-" + eprNo)
+                    if (div) {
+                        let label = "Résultat"
+                        if (descr) {
+                            label = label + " " + descr
+                        }
+                        let li = $('<li><a target="_blank">' + label + '</a></li>').hide()
+                        div.children("ul").append(li)
+                        promises.push(e.getDownloadURL().then(url => {
+                            div.children("i").hide()
+                            li.show()
+                            li.children("a").attr("href", url)
+                        }))
+                    }
+                } else {
+                    return
+                }
+            })
+            Promise.all(promises).then(() => {
+                $(".row.epreuve i").hide()
+            })
+        })
+      });
+</script>
 {{ end }}
