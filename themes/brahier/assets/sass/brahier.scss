@@ -18,3 +18,43 @@ div.horaire {
         padding-left: 0px;
      }
 }
+
+.admonition {
+    font-size: larger;
+    
+}
+
+.dark-gold {
+    background-color: #91760d;
+    color: white;
+}
+
+.covid-blue {
+    background-color: #07a0e2;
+    color: white;
+}
+
+.covid-red h1,
+.covid-red h2,
+.covid-red h3,
+.covid-red h4,
+.covid-red {
+    background-color: #c41b25;
+    color: white !important;
+}
+
+p {
+    margin: 0;
+}
+
+p+h1,
+p+h2,
+p+h3,
+p+h4,
+p+p {
+    margin-top: 2rem;
+}
+
+p+ul {
+    margin-top: 0.5rem;
+}

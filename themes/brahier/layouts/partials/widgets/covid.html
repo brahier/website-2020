@@ -1,0 +1,6 @@
+<!-- Banner -->
+<section {{ with .Params.id }}id="{{ . }}"{{ end }} style="border-top: none">
+<div class="content box admonition {{ with .Params.class }}{{ . }}{{ end }}">
+    <p>{{ .Content | markdownify }}</p>
+</div>
+</section>

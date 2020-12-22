@@ -16,7 +16,7 @@ de 9h30 à 16h30
 
 Prendre son pic-nic
 
-## Prix :
+Prix :
 - de lundi à vendredi Fr. 250.-
 - ou par jour Fr. 60.-
 
