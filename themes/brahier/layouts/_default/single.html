@@ -3,6 +3,11 @@
     <header class="main">
         <h1>{{ .Title }}</h1>
     </header>
+    {{ with .Params.image }}
+    <span class="image object">
+        <img src="{{ .href }}" alt="" />
+    </span>
+    {{ end }}
     {{ .Content }}
 </section>
 {{ end }}

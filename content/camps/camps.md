@@ -1,7 +1,7 @@
 +++
 title = "Camps de vacances Poneys Chevaux"
 [menu.main]
-weight = -20
+weight = -30
 name = "Camps de vacances"
 parent = "camps"
 +++
