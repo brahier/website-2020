@@ -1,8 +1,11 @@
 {{ define "main" }}
 {{ range where site.RegularPages "Type" "home" }}
   {{ if ne .Params.disabled 1}}
-  {{ $widgetPath := printf "widgets/%s.html" .Params.widget }}
-  {{- partial $widgetPath . -}}
+  {{ $currentPage := . }}
+  {{ with .Params.widget }}
+  {{ $widgetPath := printf "widgets/%s.html" . }}
+  {{- partial $widgetPath $currentPage -}}
+  {{ end }}
   {{ end }}
 {{ end }}
 {{ end }}

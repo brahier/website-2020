@@ -1,5 +1,6 @@
 +++
 title = "Diplôme et brevet"
 [menu.main]
-weight = -120
+identifier = "brevet"
+weight = -130
 +++
