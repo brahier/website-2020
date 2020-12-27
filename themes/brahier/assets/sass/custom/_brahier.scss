@@ -1,6 +1,7 @@
 @import 'main';
 @import 'typography';
 @import 'epreuves';
+@import 'header';
 
 // Admonition
 
@@ -50,3 +51,6 @@ p+ul {
     padding-bottom: 0.5em;
 }
 
+header#header {
+    font-size: 125%;
+}
