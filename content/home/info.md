@@ -1,13 +1,12 @@
 +++
-id = "covid-info"
-widget = "covid"
+id = "info"
+widget = "infobox"
 weight = 30
-class = "covid-red"
+class = "dark-gold"
 +++
-## Information Coronavirus
+## Information
 
-- Les manèges sont ouverts aux propriétaires de chevaux et aux élèves cavaliers
-- Nous suivons les dernières recommandations des autorités pour les cours d'équitation
-- Le manége est fermé au public
-- Le port du masque est obligatoire dans les écuries
-- Merci de respecter les règles de l'OFSP et celles affichées au centre équestre
+- Les parcours d'entraînement de janvier seront réservés aux clients du manège
+- Les infos concernant les parcours d'entraînement de février et les concours de mars seront
+  publiées ici dans le courant du mois de janvier.
+

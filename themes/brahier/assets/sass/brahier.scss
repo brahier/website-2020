@@ -24,6 +24,10 @@ div.horaire {
     
 }
 
+.dark-gold h1,
+.dark-gold h2,
+.dark-gold h3,
+.dark-gold h4,
 .dark-gold {
     background-color: #91760d;
     color: white;
@@ -57,4 +61,8 @@ p+p {
 
 p+ul {
     margin-top: 0.5rem;
+}
+
+body, input, select, textarea {
+    color: #666666;
 }

@@ -1,17 +1,11 @@
 +++
 Weight = 1
 Title = "Nouveautés"
-active = false
+active = true
 +++
 {{<miniposts>}}
 {{<article>}}
-{{<image-link src="images/pic07.jpg" link="#" class="image">}}
-
-Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore aliquam.
-{{</article>}}
-
-{{<article>}}
-[Inscriptions](#) pour les camps de vacances.
-{{</article>}}
-
+- Les parcours d'entraînement de janvier seront réservés aux clients du manège
+- Les infos concernant les parcours d'entraînement de février et les concours de mars seront
+  publiées ici dans le courant du mois de janvier.{{</article>}}
 {{</miniposts>}}
