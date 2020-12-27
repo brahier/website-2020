@@ -5,8 +5,6 @@
     {{ $options := (dict "targetPath" "css/main.css") }}
     {{ $style := resources.Get "sass/main.scss" | toCSS $options | minify | fingerprint }}
     <link rel="stylesheet" href="{{ $style.RelPermalink }}">
-    {{ $style := resources.Get "sass/brahier.scss" | toCSS $options | minify | fingerprint }}
-    <link rel="stylesheet" href="{{ $style.RelPermalink }}">
     {{ with .Site.Params.favicon }}
         <link rel="shortcut icon" href="{{ . }}" />
     {{ end }}
