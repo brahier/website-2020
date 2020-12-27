@@ -87,3 +87,9 @@ p+ul {
         font-size: 1.5em;
     }
 }
+
+#main.home>.inner>section:nth-child(n+3) {
+    border-top: none;
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+}

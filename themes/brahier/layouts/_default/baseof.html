@@ -6,7 +6,7 @@
     <!-- Wrapper -->
     <div id="wrapper">
         <!-- Main -->
-        <div id="main">
+        <div id="main" class="{{ .Kind }}">
             <div class="inner">
                 {{- partial "header.html" . -}}
                 {{- block "main" . }}{{- end }}
