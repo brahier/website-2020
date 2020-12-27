@@ -10,7 +10,7 @@
                 <li>
                     <span class="opener{{ if $currentPage.HasMenuCurrent "main" . }} active{{ end }}">{{ .Name }}</span>
                     <ul class="sub-menu">
-                    {{ range .Children }}
+                    {{ range where .Children ".Params.disabled" "!=" 1 }}
                         <li><a href="{{ .URL }}">{{ .Name }}</a></li>
                     {{ end }}
                     </ul>
