@@ -1,25 +1,6 @@
-// Epreuves
-
-div.horaire {
-    margin-bottom: 2em;
-}
-
-.row.epreuve {
-    margin-bottom: 2em;
-    background-color: #f5f6f7;
-    padding: 1em;
-}
-
-.epreuve {
-    ul {
-        margin-bottom: 0px;
-        padding-left: 0px;
-    }
-     li {
-        list-style: none;
-        padding-left: 0px;
-     }
-}
+@import 'main';
+@import 'typography';
+@import 'epreuves';
 
 // Admonition
 
@@ -63,87 +44,9 @@ p+ul {
     margin-top: 0.5rem;
 }
 
-// Typography
-
-@include breakpoint('<=xlarge') {
-    h1 {
-        font-size: 3.5em;
-    }
-}
-
-@include breakpoint('<=medium') {
-    h1 {
-        font-size: 3.25em;
-    }
-}
-
-@include breakpoint('<=small') {
-    h1 {
-        font-size: 2em;
-        line-height: 1.4;
-    }
-
-    h2 {
-        font-size: 1.5em;
-    }
-}
-
 #main.home>.inner>section:nth-child(n+3) {
     border-top: none;
     padding-top: 0.5em;
     padding-bottom: 0.5em;
 }
 
-
-
-
-#main {
-    @include vendor('flex-grow', '1');
-    @include vendor('flex-shrink', '1');
-    width: 100%;
-
-    > .inner {
-        @include padding(0, 5em);
-        margin: 0 auto;
-        max-width: 110em;
-
-        > section {
-            @include padding(5em, 0);
-            border-top: solid 2px _palette(border);
-
-            &:first-of-type {
-                 border-top: 0 !important;
-            }
-        }
-    }
-
-    @include breakpoint('<=xlarge') {
-        > .inner {
-            @include padding(0, 4em);
-
-            > section {
-                @include padding(4em, 0);
-            }
-        }
-    }
-
-    @include breakpoint('<=large') {
-        > .inner {
-            @include padding(0, 3em);
-
-            > section {
-                @include padding(3em, 0);
-            }
-        }
-    }
-
-    @include breakpoint('<=small') {
-        > .inner {
-            @include padding(0, 2em);
-
-            > section {
-                @include padding(2em, 0);
-            }
-        }
-    }
-}
