@@ -5,7 +5,7 @@ weight = 1
 title = "Bienvenue au <br />Centre Equestre <br />de Corminboeuf"
 
 [image]
-href = "images/joelle.jpg"
+href = "images/accueil.jpg"
 +++
 - Commerce de poneys et de chevaux
 - Ecole d'équitation
