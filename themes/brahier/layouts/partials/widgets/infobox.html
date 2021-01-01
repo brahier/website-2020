@@ -1,6 +1,4 @@
 <!-- Infobox -->
-<section {{ with .Params.id }}id="{{ . }}"{{ end }}>
 <div class="content box admonition {{ with .Params.class }}{{ . }}{{ end }}">
     <p>{{ .Content | markdownify }}</p>
 </div>
-</section>

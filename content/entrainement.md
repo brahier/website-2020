@@ -2,9 +2,8 @@
 title = "Parcours d'entraînement 2021"
 
 [menu.main]
-  parent = "concours_2021"
-  name = "Parcours d'entraînement"
-  weight = -20
+  name = "Parcours d'entraînement 2021"
+  weight = -176
 +++
 
 - Les parcours d'entraînement de janvier seront réservés aux clients du manège

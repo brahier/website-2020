@@ -22,5 +22,7 @@
 
 {{ range where (where site.RegularPages "Type" "sidebar") ".File.ContentBaseName" "contact"}}
     {{ $widgetPath := printf "widgets/%s.html" .File.ContentBaseName }}
-    {{- partial $widgetPath . -}}
+    <section>
+        {{- partial $widgetPath . -}}
+    </section>
 {{ end }}

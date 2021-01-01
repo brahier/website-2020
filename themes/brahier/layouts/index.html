@@ -4,7 +4,9 @@
   {{ $currentPage := . }}
   {{ with .Params.widget }}
   {{ $widgetPath := printf "widgets/%s.html" . }}
-  {{- partial $widgetPath $currentPage -}}
+  <section {{ with $currentPage.Params.id }}id="{{ . }}"{{ end }}>
+    {{- partial $widgetPath $currentPage -}}
+  </section>
   {{ end }}
   {{ end }}
 {{ end }}
