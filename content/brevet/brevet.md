@@ -1,8 +1,10 @@
 +++
 title = "Brevet combiné"
 [menu.main]
-parent = "brevet"
-weight = -10
+  parent = "brevet"
+  weight = -10
+  [menu.main.params]
+    disabled = 1
 +++
 
 Les camps de formation pour le brevet combiné auront lieu

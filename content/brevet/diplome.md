@@ -1,8 +1,11 @@
 +++
 title = "Diplôme d'équitation"
 [menu.main]
-parent = "brevet"
-weight = -20
+  parent = "brevet"
+  weight = -20
+  [menu.main.params]
+    disabled = 1
+
 +++
 
 <a class="button" href="https://forms.gle/TePhCoFK5RT86r3Q9" target="_blank">Formulaire d'inscription</a>

@@ -1,9 +1,11 @@
 +++
 title = "Camps de vacances Poneys Chevaux"
 [menu.main]
-weight = -30
-name = "Camps de vacances"
-parent = "camps"
+  weight = -30
+  name = "Camps de vacances"
+  parent = "camps"
+  [menu.main.params]
+    disabled = 1
 +++
 
 Cours d'équitation intensifs pour les jeunes valable aussi pour les débutants
