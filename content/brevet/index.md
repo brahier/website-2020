@@ -5,4 +5,4 @@ title = "Diplôme et brevet"
   weight = -130
 +++
 
-La formation "Diplôme et brevet" sera organisée du 5 au 9 avril. Inscriptions à partir de début février.
+La formation "Diplôme et brevet" sera organisée du 5 au 9 avril. Informations et inscriptions à partir de début février.
