@@ -2,7 +2,7 @@
 id = "banner"
 widget = "banner"
 weight = 1
-title = "Bienvenue au <br />Centre Equestre <br />de Corminboeuf"
+title = "Bienvenue au Centre&nbsp;Equestre de&nbsp;Corminboeuf"
 
 [image]
 href = "images/accueil.jpg"
