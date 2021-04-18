@@ -1,7 +1,7 @@
 +++
 title = "Stages"
 [menu.main]
-    weight = -10
+    weight = 100
     name = "Stages"
     parent = "camps"
 [menu.main.params]

@@ -2,7 +2,7 @@
 title = "Camps \"Pic Nic\" (pour les débutants)"
 [menu.main]
     parent = "camps"
-    weight = -131
+    weight = 20
     name = "Camps \"Pic Nic\""
 [image]
     href = "/images/picnic.jpg"

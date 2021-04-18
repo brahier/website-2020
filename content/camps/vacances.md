@@ -1,7 +1,7 @@
 +++
 title = "Camps de vacances Poneys Chevaux"
 [menu.main]
-    weight = -30
+    weight = 10
     name = "Camps de vacances 2021"
     parent = "camps"
 [menu.main.params]

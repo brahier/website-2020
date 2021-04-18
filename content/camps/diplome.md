@@ -2,7 +2,7 @@
 title = "Diplôme d'équitation"
 [menu.main]
   parent = "camps"
-  weight = -20
+  weight = 25
 [menu.main.params]
     disabled = 1
 +++
