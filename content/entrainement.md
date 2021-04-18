@@ -4,6 +4,9 @@ title = "Parcours d'entraînement 2021"
 [menu.main]
   name = "Parcours d'entraînement 2021"
   weight = -176
+
+[menu.main.params]
+  disabled = 1
 +++
 
 - Les parcours d'entraînement de janvier seront réservés aux clients du manège

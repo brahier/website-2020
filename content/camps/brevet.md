@@ -1,12 +1,12 @@
 +++
 title = "Brevet combiné"
 [menu.main]
-  parent = "brevet"
+  parent = "camps"
   weight = -10
 +++
 
 Les camps de formation pour le brevet combiné auront lieu
-du 5 au 9 avril 2021
+du 19 au 23 juillet 2021
 au Centre équestre de Corminboeuf. L'examen aura lieu le vendredi après-midi.
 
 Vous trouverez plus d'information concernant le brevet sur le [site de la fédération](https://www.fnch.ch/fr/Sport/Brevets/Combine.html).

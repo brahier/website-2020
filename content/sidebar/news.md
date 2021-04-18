@@ -5,10 +5,8 @@ active = true
 +++
 {{<miniposts>}}
 {{<article>}}
-- Les parcours d'entraînement sont réservés aux clients du manège
-- **Les concours du mois de mars sont annulés à cause de la situation sanitaire**
-- Les inscriptions pour le [camps "Pic Nic"](/picnic) sont ouvertes
-- Les inscriptions pour le [brevet combiné](/brevet/brevet/) sont ouvertes
-- Les inscriptions pour le [diplôme d'équitation](/brevet/diplome/) sont ouvertes
+- Les inscriptions pour les [camps de vacances 2021](/camps/vacances/) sont ouvertes
+- Les inscriptions pour les [camps "Pic Nic"](/camps/picnic/) sont ouvertes
+- Les inscriptions pour le [brevet combiné](/camps/brevet/) sont ouvertes
 {{</article>}}
 {{</miniposts>}}

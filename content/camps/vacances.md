@@ -1,11 +1,11 @@
 +++
 title = "Camps de vacances Poneys Chevaux"
 [menu.main]
-  weight = -30
-  name = "Camps de vacances"
-  parent = "camps"
-  [menu.main.params]
-    disabled = 1
+    weight = -30
+    name = "Camps de vacances 2021"
+    parent = "camps"
+[menu.main.params]
+    disabled = 0
 +++
 
 Cours d'équitation intensifs pour les jeunes valable aussi pour les débutants
@@ -72,4 +72,4 @@ P.S. Ce programme peut être modifié selon le temps ou le niveau équestre des 
 
 Le Centre Equestre décline toutes responsabilités en cas d'accidents ou de maladie pouvant survenir pendant le camp. Une assurance RC avec "Risque Chevaux" est obligatoire
 
-<a class="button" href="https://forms.gle/tyXGzyVrHYKSW1QA8" target="_blank">Dates 2020 et Formulaire d'inscription</a>
+<a class="button" href="https://docs.google.com/forms/d/e/1FAIpQLScPQvik_WlhxsbMkAXzCSaMensy49S_4ORk7xjaLYCrhcY3Jw/viewform?usp=sf_link" target="_blank">Dates 2021 et Formulaire d'inscription</a>

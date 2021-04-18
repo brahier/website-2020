@@ -4,8 +4,8 @@ title = "Stages"
     weight = -10
     name = "Stages"
     parent = "camps"
-    [menu.main.params]
-      disabled = 1
+[menu.main.params]
+  disabled = 1
 +++
 
 Possibilité de stage toute l'année
