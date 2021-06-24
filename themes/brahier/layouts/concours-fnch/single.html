@@ -1,0 +1,52 @@
+{{ define "main" }}
+<section class="concours">
+    <header class="main">
+        <h1>{{ .Title }}</h1>
+    </header>
+    {{ .Content }}
+</section>
+
+
+<div class="row">
+
+
+<div class="col-3 col-6-xlarge col-12-small">
+<ul class="actions fit">
+    <li>
+        <a href="https://info.fnch.ch/#/veranstaltungskalender/ausschreibung/{{ .Params.fnch_id }}" class="button icon solid large fit fa-file-alt">Propositions</a>
+    </li>
+</ul>
+
+</div>
+
+<div class="col-3 col-6-xlarge col-12-small">
+    <ul class="actions fit">
+        <li>
+            <a href="https://my.fnch.ch/nennungen/new?veranstaltung_id={{ .Params.fnch_id }}" class="button icon solid large fit fa-edit">Inscriptions</a>
+        </li>
+    </ul>
+</div>
+
+<div class="col-3 col-6-xlarge col-12-small">
+    <ul class="actions fit">
+        <li>
+            <a href="https://info.fnch.ch/#/startlisten/{{ .Params.fnch_id }}" class="button icon solid large fit fa-list-ol">Listes de start</a>
+        </li>
+    </ul>
+</div>
+
+<div class="col-3 col-6-xlarge col-12-small">
+    <ul class="actions fit">
+        <li>
+            <a href="https://info.fnch.ch/#resultate/veranstaltungen/{{ .Params.fnch_id }}" class="button icon solid large fit fa-medal">Résultats</a>
+        </li>
+    </ul>
+</div>
+
+ 
+
+
+</div>
+
+    
+{{ end }}
