@@ -72,8 +72,4 @@ P.S. Ce programme peut être modifié selon le temps ou le niveau équestre des 
 
 Le Centre Equestre décline toutes responsabilités en cas d'accidents ou de maladie pouvant survenir pendant le camp. Une assurance RC avec "Risque Chevaux" est obligatoire
 
-<div style="margin-top: 40px">
-{{<admonition covid-red>}}
-Les camps pour 2021 sont tous complets!
-{{</admonition>}}
-</div>
+<a class="button" href="https://docs.google.com/forms/d/e/1FAIpQLScPQvik_WlhxsbMkAXzCSaMensy49S_4ORk7xjaLYCrhcY3Jw/viewform?usp=sf_link" target="_blank">Dates 2021 et Formulaire d'inscription</a>
