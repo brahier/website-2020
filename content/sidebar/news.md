@@ -5,9 +5,7 @@ active = true
 +++
 {{<miniposts>}}
 {{<article>}}
-- [Concours du 26 juin 2021](/concours/2021/2021-06-26/)
-- Les inscriptions pour les [camps "Pic Nic"](/camps/picnic/) sont ouvertes
-- Les inscriptions pour le [diplôme d'équitation](/camps/diplome/) sont ouvertes
-- Les inscriptions pour le [brevet combiné](/camps/brevet/) sont ouvertes
+- Les inscriptions pour le [diplôme d'équitation](/camps/diplome/) d'automne sont ouvertes
+- Les inscriptions pour le [brevet combiné](/camps/brevet/) d'automne sont ouvertes
 {{</article>}}
 {{</miniposts>}}

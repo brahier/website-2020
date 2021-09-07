@@ -5,6 +5,9 @@ title = "Diplôme d'équitation"
   weight = 25
 +++
 
+Le camp de formation pour le diplôme d'équitation aura lieu
+du 25 au 29 octobre 2021
+
 <a class="button" href="https://docs.google.com/forms/d/e/1FAIpQLScot3j2ynoSEtY6XKE8NHFCWazZD2j3l19k1Biw43meahNyNw/viewform?usp=sf_link" target="_blank">Formulaire d'inscription</a>
 
 
