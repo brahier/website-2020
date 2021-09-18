@@ -4,7 +4,7 @@ title = "6-7 mars : Concours régional, style"
 [menu.main]
   parent = "concours_2021"
   name = "6-7 mars : concours régional, style"
-  weight = -20
+  weight = 10
 +++
 
 {{<admonition covid-red>}}
