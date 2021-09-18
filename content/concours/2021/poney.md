@@ -4,7 +4,7 @@ title = "13-14 mars : Concours poneys, junior"
 [menu.main]
   parent = "concours_2021"
   name = "13-14 mars : Concours poneys, junior"
-  weight = -10
+  weight = 20
 +++
 
 {{<admonition covid-red>}}
