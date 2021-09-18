@@ -27,6 +27,18 @@
     color: white;
 }
 
+.dark-blue *,
+.dark-blue {
+    background-color: #00008B;
+    color: white;
+    
+    a:hover {
+        border-bottom-color: #FFD700;
+        color: #FFD700!important;
+    }    
+}
+
+
 p {
     margin: 0;
 }

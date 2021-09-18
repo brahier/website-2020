@@ -1,5 +1,5 @@
 +++
-title = "13-14 mars : Concours poneys, junior"
+title = "13-14 mars 2021 : Concours poneys, junior"
 
 [menu.main]
   parent = "concours_2021"

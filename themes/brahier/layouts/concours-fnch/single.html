@@ -9,44 +9,46 @@
 
 <div class="row">
 
+{{ if or (not (isset .Params "btns_flags")) (in (upper .Params.btns_flags) "P") }}
+<div class="col-3 col-6-xlarge col-12-small">
+    <ul class="actions fit">
+        <li>
+            <a href="https://info.fnch.ch/#/veranstaltungskalender/ausschreibung/{{ .Params.fnch_id }}" class="button icon solid large fit fa-file-alt">Propositions</a>
+        </li>
+    </ul>
+</div>
+{{ end }}
 
+{{ if or (not (isset .Params "btns_flags")) (in (upper .Params.btns_flags) "I") }}
 <div class="col-3 col-6-xlarge col-12-small">
 <ul class="actions fit">
     <li>
-        <a href="https://info.fnch.ch/#/veranstaltungskalender/ausschreibung/{{ .Params.fnch_id }}" class="button icon solid large fit fa-file-alt">Propositions</a>
+        <a href="https://my.fnch.ch/nennungen/new?veranstaltung_id={{ .Params.fnch_id }}" class="button icon solid large fit fa-edit">Inscriptions</a>
     </li>
 </ul>
-
 </div>
+{{ end }}
 
+{{ if or (not (isset .Params "btns_flags")) (or (in (upper .Params.btns_flags) "L") (in (upper .Params.btns_flags) "S")) }}
 <div class="col-3 col-6-xlarge col-12-small">
-    <ul class="actions fit">
-        <li>
-            <a href="https://my.fnch.ch/nennungen/new?veranstaltung_id={{ .Params.fnch_id }}" class="button icon solid large fit fa-edit">Inscriptions</a>
-        </li>
-    </ul>
+<ul class="actions fit">
+    <li>
+        <a href="https://info.fnch.ch/#/startlisten/{{ .Params.fnch_id }}" class="button icon solid large fit fa-list-ol">Listes de start</a>
+    </li>
+</ul>
 </div>
+{{ end }}
 
+{{ if or (not (isset .Params "btns_flags")) (in (upper .Params.btns_flags) "R") }}
 <div class="col-3 col-6-xlarge col-12-small">
-    <ul class="actions fit">
-        <li>
-            <a href="https://info.fnch.ch/#/startlisten/{{ .Params.fnch_id }}" class="button icon solid large fit fa-list-ol">Listes de start</a>
-        </li>
-    </ul>
+<ul class="actions fit">
+    <li>
+        <a href="https://info.fnch.ch/#resultate/veranstaltungen/{{ .Params.fnch_id }}" class="button icon solid large fit fa-medal">Résultats</a>
+    </li>
+</ul>
 </div>
-
-<div class="col-3 col-6-xlarge col-12-small">
-    <ul class="actions fit">
-        <li>
-            <a href="https://info.fnch.ch/#resultate/veranstaltungen/{{ .Params.fnch_id }}" class="button icon solid large fit fa-medal">Résultats</a>
-        </li>
-    </ul>
-</div>
-
- 
-
+{{ end }}
 
 </div>
-
     
 {{ end }}
