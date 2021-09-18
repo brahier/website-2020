@@ -2,7 +2,7 @@
 id = "info"
 widget = "infobox"
 weight = 30
-class = "dark-gold"
+class = "dark-blue"
 +++
 ## Information
 
