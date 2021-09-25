@@ -6,7 +6,8 @@ title = "Camps \"Pic Nic\" (pour les débutants)"
     name = "Camps \"Pic Nic\""
 [image]
     href = "/images/picnic.jpg"
-
+[menu.main.params]
+  disabled = 1
 +++
 
 Le camps "Pic Nic" est un camps d'initiation à l'équitation. Il s'adresse aux cavaliers débutants.
