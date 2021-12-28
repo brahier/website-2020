@@ -3,6 +3,7 @@ id = "info"
 widget = "infobox"
 weight = 30
 class = "dark-blue"
+disabled = 1
 +++
 ## Information
 

@@ -6,4 +6,4 @@ class = "dark-blue"
 +++
 ## Nouveautés
 
-- Horaire du [concours du 6 au 7 novembre 2021](/concours/2021/2021-11-06/)
+- [Parcours d'entraînement 2022](/concours/2022/entrainements/)
