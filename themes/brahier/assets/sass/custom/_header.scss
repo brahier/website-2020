@@ -21,7 +21,8 @@
 			border-bottom: 0;
 			color: inherit;
 			font-family: _font(family-heading);
-			font-size: 1.125em;
+			font-size: 1.6em;
+			flex-grow: 2;
 		}
 
 		.icons {
@@ -30,6 +31,12 @@
 
 		@include breakpoint('<=xlarge') {
 			padding-top: 4em;
+		}
+
+		@include breakpoint('<=medium') {
+			.logo {
+				font-size: 1.5em;
+			}
 		}
 
 		@include breakpoint('<=small') {
