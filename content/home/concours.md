@@ -4,7 +4,7 @@ widget = "infobox"
 weight = 29
 class = "dark-blue"
 +++
-## Nouveautés
+## Nouveautés / Concours
 
 Le Centre équestre de Corminboeuf est heureux de vous proposer les concours suivants :
 

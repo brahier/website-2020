@@ -2,7 +2,7 @@
 title = "Janvier-Février 2022 : Parcours d'entraînements : ANNULÉS"
 [menu.main]
   parent = "concours_2022"
-  identifier = "2022-entr-covid"
+  identifier = "2022-entr"
   name = "Entraînements 2022"
   weight = 10
 +++

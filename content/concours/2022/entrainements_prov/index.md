@@ -2,7 +2,7 @@
 title = "Janvier-Février 2022 : Parcours d'entraînements"
 [menu.main]
   parent = "concours_2022"
-  identifier = "2022-entr"
+  identifier = "2022-entr-prov"
   name = "Entraînements 2022"
   weight = 10
 [menu.main.params]
