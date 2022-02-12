@@ -3,10 +3,9 @@ title = "Contact"
 street = "rte de Matran 2"
 city = "1720 Corminboeuf, Suisse"
 email = [
-    "joelle@brahier.ch",
-    "pierre@brahier.ch"
+    "<a href =\"mailto:joelle@brahier.ch\">joelle@brahier.ch</a>",
+    "<a href =\"mailto:pierre@brahier.ch\">pierre@brahier.ch</a>",
 ]
-    
 phone = [
     "<a href=\"tel:+41793320797\">+41 79 332 07 97 (Joëlle)</a>",
     "<a href=\"tel:+41792302667\">+41 79 230 26 67 (Pierre)</a>",
