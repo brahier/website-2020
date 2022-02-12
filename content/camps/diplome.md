@@ -6,14 +6,13 @@ title = "Diplôme d'équitation"
 +++
 
 Le camp de formation pour le diplôme d'équitation aura lieu
-du 25 au 29 octobre 2021
+du 18 au 22 avril 2022
+
+<a class="button" href="https://form.jotform.com/213383199729064" target="_blank">Formulaire d'inscription</a>
 
 {{% nop %}}
-<a class="button" href="https://docs.google.com/forms/d/e/1FAIpQLScot3j2ynoSEtY6XKE8NHFCWazZD2j3l19k1Biw43meahNyNw/viewform?usp=sf_link" target="_blank">Formulaire d'inscription</a>
-{{% /nop %}}
-
 <span class="button primary disabled">Complet</span>
-
+{{% /nop %}}
 ## Attestation :
 - Sortir le cheval du box / attacher
 - Curer les sabots
@@ -35,11 +34,11 @@ du 25 au 29 octobre 2021
 
 ## Prix
 
-Prix : 600.- + classeur (à commander à la FNCH-taxes : 130.-)
+Prix : 600.- + classeur 39.- + taxes FNCH 100.-
 
 En supplément :
 - Dortoir + repas : 200.-
-- Repas de midi : 60.-
+- Repas de midi seulement : 60.-
 - Box pour un cheval : 40.-/jour
 
 

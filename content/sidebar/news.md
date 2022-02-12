@@ -5,8 +5,10 @@ active = true
 +++
 {{<miniposts>}}
 {{<article>}}
-- Horaire du [concours du 6 au 7 novembre 2021](/concours/2021/2021-11-06/)
-- Les inscriptions pour le [diplôme d'équitation](/camps/diplome/) d'automne sont ouvertes
-- Les inscriptions pour le [brevet combiné](/camps/brevet/) d'automne sont ouvertes
+- [Concours régional et national du 5 au 6 mars 2022](/concours/2022/2022-03-05/)
+- [Journée Poneys PSR et Epreuves STT Swiss Team Trophy du 12 au 13 mars 2022](/concours/2022/2022-03-12/)
+- [Inscriptions pour le diplôme d'équitation](/camps/diplome/)
+- [Inscriptions pour le brevet combiné](/camps/brevet/)
+- [ANNULATION des parcours d'entraînement 2022](/concours/2022/entrainements/)
 {{</article>}}
 {{</miniposts>}}

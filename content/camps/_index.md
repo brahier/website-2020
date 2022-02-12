@@ -1,5 +1,5 @@
 +++
-title = "Camps d'équitation 2021"
+title = "Camps d'équitation 2022"
 [menu.main]
   identifier = "camps"
   weight = -130

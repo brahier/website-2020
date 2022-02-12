@@ -76,4 +76,4 @@ Le Centre Equestre décline toutes responsabilités en cas d'accidents ou de mal
 <a class="button" href="https://docs.google.com/forms/d/e/1FAIpQLScPQvik_WlhxsbMkAXzCSaMensy49S_4ORk7xjaLYCrhcY3Jw/viewform?usp=sf_link" target="_blank">Dates 2021 et Formulaire d'inscription</a>
 {{% /nop %}}
 
-<span class="button primary disabled">Complet</span>
+<span class="button primary disabled">Les inscriptions seront ouvertes en avril 2022</span>
