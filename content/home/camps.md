@@ -6,7 +6,9 @@ class = "dark-blue"
 +++
 ## Nouveautés / Camps de vacances
 
-Les inscriptions au [diplôme d'équitation](/camps/diplome/) et au [brevet combiné](/camps/brevet/) sont ouvertes.
+Les camps pour le [diplôme d'équitation](/camps/diplome/) et le [brevet combiné](/camps/brevet/) sont complets.
 
+D'autres camps seront organisés en 2022. Nous publierons les informations sur ce site
+dès que possible. 
 <br>
 

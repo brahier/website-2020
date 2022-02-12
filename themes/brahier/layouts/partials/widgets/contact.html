@@ -4,8 +4,10 @@
 </header>
 <p>{{ .Content | markdownify }}</p>
 <ul class="contact">
-    <li class="icon solid fa-envelope"><a href="mailto:{{ .Params.email }}">{{ .Params.email }}</a></li>
-    <li class="icon solid fa-phone">{{ .Params.phone }}</li>
+    <li class="icon solid fa-envelope"><a 
+        href="mailto:{{ .Params.email }}">{{ delimit .Params.email "<br/>"
+        }}</a></li>
+    <li class="icon solid fa-phone">{{ delimit .Params.phone "<br/>"}}</li>
     <li class="icon solid fa-home">{{ .Params.street }}<br />
         {{ .Params.city }}</li>
     <li class="icon solid fa-hashtag">Agate : {{ .Params.agate }}<br />

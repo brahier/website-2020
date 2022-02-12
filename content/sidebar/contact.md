@@ -2,8 +2,16 @@
 title = "Contact"
 street = "rte de Matran 2"
 city = "1720 Corminboeuf, Suisse"
-email = "pierre@brahier.ch"
-phone = "+41 79 230 26 67"
+email = [
+    "joelle@brahier.ch",
+    "pierre@brahier.ch"
+]
+    
+phone = [
+    "<a href=\"tel:+41793320797\">+41 79 332 07 97 (Joëlle)</a>",
+    "<a href=\"tel:+41792302667\">41 79 230 26 67 (Pierre)</a>",
+    "<a href=\"tel:+41788610903\">+41 78 861 09 03 (Leçons)</a>",
+]
 agate = "3132011"
 bdta = "2174075"
 bank_name = "Banque Cantonale de Fribourg"
