@@ -3,6 +3,7 @@ id = "covid-info"
 widget = "covid"
 weight = 40
 class = "covid-red"
+disabled = 1
 +++
 ## Information Coronavirus
 
