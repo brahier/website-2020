@@ -2,3 +2,4 @@
 /resources/_gen
 /.firebase
 ui-debug.log
+.*.lock

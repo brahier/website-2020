@@ -1,7 +1,7 @@
 +++
 Weight = 1
 Title = "Nouveautés"
-active = true
+active = false
 +++
 {{<miniposts>}}
 {{<article>}}
