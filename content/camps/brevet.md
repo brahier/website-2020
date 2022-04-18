@@ -11,11 +11,10 @@ au Centre équestre de Corminboeuf. L'examen aura lieu le vendredi après-midi.
 
 Vous trouverez plus d'information concernant le brevet sur le [site de la fédération](https://www.fnch.ch/fr/Sport/Brevets/Combine.html).
 
-
-<a class="button" href="https://form.jotform.com/213383199729064" target="_blank">Formulaire d'inscription</a>
-
-{{% nop %}}
-<span class="button primary disabled">Complet</span>
-{{% /nop %}}
-
 Si vous avez des questions, n'hésitez pas à appeler Joêlle Brahier au +41 79 332 07 97.
+
+## Dates et inscriptions
+
+<ul class="buttonlist">
+<li><a class="button disabled">18-2 juillet 2022 : Inscriptions possibles dès le 19 avril</a></li>
+</ul>

@@ -72,3 +72,13 @@ p+ul {
 header#header {
     font-size: 125%;
 }
+
+ul.buttonlist {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+ul.buttonlist li {
+    padding-left: 0;
+    padding-bottom: .5em;
+}

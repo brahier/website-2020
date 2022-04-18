@@ -6,20 +6,15 @@ class = "dark-blue"
 +++
 ## Nouveautés / Camps de vacances
 
-Les camps pour le [diplôme d'équitation](/camps/diplome/) et le [brevet combiné](/camps/brevet/) du mois d'avril sont complets.
+**Les inscriptions pour les camps de vacances seront ouvertes le 19 avril 2022**
 
-**Dates des prochains camps :**
-
-* 11 - 15 juillet : Camp dressage ou saut / tous niveaux
-* 18 - 22 juillet : Brevet
-* 25 - 29 juillet : Camp dressage ou saut avec adaptation des niveaux
-* 1<sup>er</sup> - 5 août : Camps
-* 8 - 13 août : Camps
-* 15 - 19 août : Camp dressage ou saut avec adaptation des niveaux
-* 22 - 24 août : Stage d'initiation pour débutants (3 jours)
-
-Les détails ainsi que les formulaires d'inscription seront disponibles sur ce site
-dès que possible.
+* 11 - 15 juillet : [Camp dressage ou dressage/saut (tous niveaux)]({{< ref "camps/vacances" >}})
+* 18 - 22 juillet : Camps [Brevet]({{< ref "camps/brevet" >}})/[Diplôme]({{< ref "camps/diplome" >}})
+* 25 - 29 juillet : [Stage d'initiation pour débutants]({{< ref "camps/stage_debutant" >}})
+* 1<sup>er</sup> - 5 août : [Camp dressage ou dressage/saut (tous niveaux)]({{< ref "camps/vacances" >}})
+* 8 - 13 août : [Camp dressage ou dressage/saut (tous niveaux)]({{< ref "camps/vacances" >}})
+* 15 - 19 août : [Stage d'initiation pour débutants]({{< ref "camps/stage_debutant" >}})
+* 22 - 24 août : [Stage d'initiation pour débutants (3 jours)]({{< ref "camps/stage_debutant" >}})
 
 <br>
 

@@ -12,6 +12,7 @@ Cours d'équitation intensifs pour les jeunes valable aussi pour les débutants
 
 - Soins aux Chevaux
 - Equitation (Voltige, dressage, saut, promenade)
+- Travail au sol
 - Théorie
 - Natation
 - Sortie Pique-nique
@@ -31,27 +32,27 @@ Cours d'équitation intensifs pour les jeunes valable aussi pour les débutants
     </dt>
     <dt>Mardi</dt>
         <dd>
-            <p>07H30 Réveil - 08H30 déjeuner - Soins aux chevaux - voltige - équitation - entretien du matériel.</p>
+            <p>09H00 petit déjeuner - Soins aux chevaux - voltige - équitation - travail au sol - entretien du matériel.</p>
         </dd>
     </dt>
     <dt>Mercredi</dt>
         <dd>
-            <p>07H30 Réveil - 08H30 déjeuner - Soins aux chevaux - équitation en extérieur - cavalettis - piscine.</p>
+            <p>09H00 petit déjeuner - Soins aux chevaux - équitation en extérieur - cavalettis - piscine.</p>
         </dd>
     </dt>
     <dt>Jeudi</dt>
         <dd>
-            <p>07H30 Réveil - 08H30 déjeuner - Soins aux chevaux - cavalettis - saut - promenade - visite du Haras fédéral d'Avenches.</p>
+            <p>09H00 petit déjeuner - Soins aux chevaux - cavalettis - saut - promenade - visite du Haras fédéral d'Avenches.</p>
         </dd>
     </dt>
     <dt>Vendredi</dt>
         <dd>
-            <p>07H30 Réveil - 08H30 déjeuner - Soins aux chevaux - 16h00 représentation de fin de cours - 17h00 remise du matériel et fin du camps de vacances.</p>
+            <p>09H00 petit déjeuner - Soins aux chevaux - 16h00 représentation de fin de cours - 17h00 remise du matériel et fin du camps de vacances.</p>
         </dd>
     </dt>
 </dl>
 
-P.S. Ce programme peut être modifié selon le temps ou le niveau équestre des élèves
+P.S. Ce programme peut être modifié selon le temps ou selon le niveau équestre des élèves
 
 ## Matériel
 
@@ -72,8 +73,10 @@ P.S. Ce programme peut être modifié selon le temps ou le niveau équestre des 
 
 Le Centre Equestre décline toutes responsabilités en cas d'accidents ou de maladie pouvant survenir pendant le camp. Une assurance RC avec "Risque Chevaux" est obligatoire
 
-{{% nop %}}
-<a class="button" href="https://docs.google.com/forms/d/e/1FAIpQLScPQvik_WlhxsbMkAXzCSaMensy49S_4ORk7xjaLYCrhcY3Jw/viewform?usp=sf_link" target="_blank">Dates 2021 et Formulaire d'inscription</a>
-{{% /nop %}}
+## Dates et inscriptions
 
-<span class="button primary disabled">Les inscriptions seront ouvertes en avril 2022</span>
+<ul class="buttonlist">
+<li><a class="button disabled">11-15 juillet 2022 : Inscriptions possibles dès le 19 avril</a></li>
+<li><a class="button disabled">1-5 août 2022 : Inscriptions possibles dès le 19 avril</a></li>
+<li><a class="button disabled">8-13 août 2022 : Inscriptions possibles dès le 19 avril</a></li>
+</ul>
