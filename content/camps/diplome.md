@@ -8,9 +8,10 @@ title = "Diplôme d'équitation"
 Le prochain camp de formation pour le diplôme d'équitation aura lieu
 du 18 au 22 juillet 2022
 
-<ul class="buttonlist">
-<li><a class="button disabled">18-2 juillet 2022 : Inscriptions possibles dès le 19 avril</a></li>
-</ul>
+{{< jf-buttons-list >}}
+{{< jf-button-item disabled=" : Inscriptions possibles dès le 19 avril">}}18-2 juillet 2022{{< /jf-button-item >}}
+{{< /jf-buttons-list >}}
+
 
 {{% nop %}}
 <span class="button primary disabled">Complet</span>

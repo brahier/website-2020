@@ -1,0 +1,7 @@
+<li>
+    {{ if (.Get "disabled") }}
+    <span class="button disabled">{{ .Inner }} {{ with .Get "disabled" }} {{ . }} {{ end }}</span>
+    {{ else }}
+    <a {{ with .Get "id" }} id="jf-{{ . }}" href="https://form.jotform.com/{{ . }}" target="_blank" {{ end }} class="button">{{ .Inner }}</a>
+    {{ end}}
+</li>
