@@ -26,13 +26,13 @@ de midi. Il est cependant possible, sur demande, de manger sur place.
 - Tous les matins de la semaine (du lundi au vendredi) : 150.-
 - Forfait pour tous les jours de la semaine (sauf le mercredi après-midi) : 250.-
 
-Pour le camps de 3 jours, le forfait des 3 matinées n'est pas disponible et le forfait pour
+Pour le camps de 3 jours (22-24 août), le forfait des 3 matinées n'est pas disponible et le forfait pour
 les deux jours et demi est de 140.-
 
 ## Dates et inscriptions
 
 {{< jf-buttons-list >}}
-{{< jf-button-item disabled=" : Inscriptions possibles dès le 19 avril">}}25-29 juillet 2022{{< /jf-button-item >}}
-{{< jf-button-item disabled=" : Inscriptions possibles dès le 19 avril">}}15-19 août 2022{{< /jf-button-item >}}
-{{< jf-button-item disabled=" : Inscriptions possibles dès le 19 avril">}}22-24 août 2022 (3 jours){{< /jf-button-item >}}
+{{< jf-button-item id="221074466527356">}}Inscriptions / 25-29 juillet 2022{{< /jf-button-item >}}
+{{< jf-button-item id="221081542440343">}}Inscriptions / 15-19 août 2022{{< /jf-button-item >}}
+{{< jf-button-item id="221081762623350">}}Inscriptions / 22-24 août 2022 (3 jours){{< /jf-button-item >}}
 {{< /jf-buttons-list >}}

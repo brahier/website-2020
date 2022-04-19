@@ -16,5 +16,5 @@ Si vous avez des questions, n'hésitez pas à appeler Joêlle Brahier au +41 79 
 ## Dates et inscriptions
 
 {{< jf-buttons-list >}}
-{{< jf-button-item disabled=": Inscriptions possibles dès le 19 avril" id="221071893083354">}}18-2 juillet 2022{{< /jf-button-item >}}
+{{< jf-button-item id="221071893083354">}}Inscriptions / 18-2 juillet 2022{{< /jf-button-item >}}
 {{< /jf-buttons-list >}}

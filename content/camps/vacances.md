@@ -76,7 +76,7 @@ Le Centre Equestre décline toutes responsabilités en cas d'accidents ou de mal
 ## Dates et inscriptions
 
 {{< jf-buttons-list >}}
-{{< jf-button-item disabled=" : Inscriptions possibles dès le 19 avril">}}11-15 juillet 2022{{< /jf-button-item >}}
-{{< jf-button-item disabled=" : Inscriptions possibles dès le 19 avril">}}1-5 août 2022{{< /jf-button-item >}}
-{{< jf-button-item disabled=" : Inscriptions possibles dès le 19 avril">}}8-13 août 2022{{< /jf-button-item >}}
+{{< jf-button-item id="221075361204343">}}Inscriptions / 11-15 juillet 2022{{< /jf-button-item >}}
+{{< jf-button-item id="221081551917352">}}Inscriptions / 1-5 août 2022{{< /jf-button-item >}}
+{{< jf-button-item id="221081744111342">}}Inscriptions / 8-13 août 2022{{< /jf-button-item >}}
 {{< /jf-buttons-list >}}
