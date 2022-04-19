@@ -1,5 +1,6 @@
 +++
 title = "Stages d'initiation à l'équitation"
+type = "camp"
 [menu.main]
     parent = "camps"
     weight = 120

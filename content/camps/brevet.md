@@ -1,5 +1,6 @@
 +++
 title = "Brevet combiné"
+type = "camp"
 [menu.main]
   parent = "camps"
   weight = 30

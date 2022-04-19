@@ -1,0 +1,27 @@
+{{ define "main" }}
+<section class="camp">
+    <header class="main">
+        <h1>{{ .Title }}</h1>
+    </header>
+    {{ .Content }}
+</section>
+{{ end }}
+{{ define "custom-script" }}
+<script>
+    $(document).ready(function () {
+        $(".camp-button").each(function (index) {
+            var id = $(this).data("jf-id");
+            var element = $(this);
+            $.getJSON("https://us-central1-brahier-ch.cloudfunctions.net/formStat/" + id, function (data) {
+                if (data.available <= 0) {
+                    element.addClass("disabled");
+                    element.find("span.jf-info").html(" : COMPLET");
+
+                } else {
+                    element.find("span.jf-info").html(` : Il reste ${data.available} places`);
+            }
+            });
+        });
+    });
+</script>
+{{ end }}

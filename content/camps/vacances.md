@@ -1,5 +1,6 @@
 +++
 title = "Camps de vacances Poneys Chevaux"
+type = "camp"
 [menu.main]
     weight = 10
     name = "Camps de vacances"

@@ -1,5 +1,6 @@
 +++
 title = "Diplôme d'équitation"
+type = "camp"
 [menu.main]
   parent = "camps"
   weight = 25
