@@ -1,5 +1,5 @@
 <!-- Scripts -->
-{{ $scripts := slice "jquery.min.js" "browser.min.js" "breakpoints.min.js" "util.js" "main.js" -}}
+{{ $scripts := slice "jquery.min.js" "browser.min.js" "breakpoints.min.js" "util.js" "main.js" "brahier.js" -}}
 {{ range $scripts }}
   {{ $path := print "js/" . }}
   <script src="{{ $path | relURL }}"></script>
