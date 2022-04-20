@@ -33,7 +33,7 @@ les deux jours et demi est de 140.-
 ## Dates et inscriptions
 
 {{< jf-buttons-list >}}
-{{< jf-button-item id="221074466527356">}}Inscriptions / 25-29 juillet 2022{{< /jf-button-item >}}
-{{< jf-button-item id="221081542440343">}}Inscriptions / 15-19 août 2022{{< /jf-button-item >}}
-{{< jf-button-item id="221081762623350">}}Inscriptions / 22-24 août 2022 (3 jours){{< /jf-button-item >}}
+{{< jf-button-item id="221074466527356">}}25-29 juillet 2022{{< /jf-button-item >}}
+{{< jf-button-item id="221081542440343">}}15-19 août 2022{{< /jf-button-item >}}
+{{< jf-button-item id="221081762623350">}}22-24 août 2022 (3 jours){{< /jf-button-item >}}
 {{< /jf-buttons-list >}}
