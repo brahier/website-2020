@@ -7,7 +7,7 @@ class = "dark-blue"
 ## Les inscriptions pour tous les camps de vacances sont ouvertes&nbsp;!
 
 * ~~11 - 15 juillet : Camp dressage ou dressage/saut (tous niveaux)~~  COMPLET
-* 18 - 22 juillet : Camp [Brevet]({{< ref "camps/brevet" >}})/[Diplôme]({{< ref "camps/diplome" >}})
+* ~~18 - 22 juillet : Camp Brevet~~ COMPLET
 * 25 - 29 juillet : [Stage d'initiation pour débutants]({{< ref "camps/stage_debutant" >}})
 * 1<sup>er</sup> - 5 août : [Camp dressage ou dressage/saut (tous niveaux)]({{< ref "camps/vacances" >}})
 * 8 - 12 août : [Camp dressage ou dressage/saut (tous niveaux)]({{< ref "camps/vacances" >}})
