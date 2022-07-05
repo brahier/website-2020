@@ -7,4 +7,4 @@ title = "Webcam Nouveau manège"
     disabled = 1
 +++
 
-<iframe src="https://camera2.brahier.ch/player.html" name="restreamer-player" width="800" height="500" scrolling="no" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen="true"></iframe>
+<iframe src="https://restreamer.brahier.ch/43a00bbe-88b1-4fba-a757-24d1a1586b78.html" width="800" height="500" frameborder="no" scrolling="no" allowfullscreen="true"></iframe>

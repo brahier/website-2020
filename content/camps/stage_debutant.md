@@ -18,7 +18,7 @@ et vous ferez des activités ludiques d'équitation.
 Les activités ont lieu Le matin, de 9h30 à 11h00 et l'aprè-midi, de 14h30 à 16h00 (sauf le mercredi).
 
 La journée est assez longue et nous recommandons aux jeunes de rentrer chez eux pour le repas
-de midi. Il est cependant possible, sur demande, de manger sur place.
+de midi.
 
 ## Prix
 

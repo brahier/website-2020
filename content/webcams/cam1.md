@@ -7,5 +7,4 @@ title = "Webcam Manège principal"
     disabled = 1
 +++
 
-<iframe src="https://camera1.brahier.ch/player.html" name="restreamer-player" width="800" height="500" scrolling="no" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen="true"></iframe>
-
+<iframe src="https://restreamer.brahier.ch/733687a5-00e4-488d-b5b0-231f9ab137dc.html" width="800" height="500" frameborder="no" scrolling="no" allowfullscreen="true"></iframe>
