@@ -17,5 +17,9 @@ Si vous avez des questions, n'hésitez pas à appeler Joêlle Brahier au +41 79 
 ## Dates et inscriptions
 
 {{< jf-buttons-list >}}
-{{< jf-button-item id="221071893083354" disabled=": Complet">}}18-2 juillet 2022{{< /jf-button-item >}}
+{{< jf-button-item id="221071893083354" disabled=": Terminé">}}18-2 juillet 2022{{< /jf-button-item >}}
+{{< jf-button-item id="222396070927359">}}24-28 octobre 2022{{< /jf-button-item >}}
 {{< /jf-buttons-list >}}
+
+Si le camps auquel vous souhaitez vous inscrire est complet, nous vous recomandons
+de contacter le manège pour voir si un arrangement est possible.

@@ -33,7 +33,10 @@ les deux jours et demi est de 140.-
 ## Dates et inscriptions
 
 {{< jf-buttons-list >}}
-{{< jf-button-item id="221074466527356">}}25-29 juillet 2022{{< /jf-button-item >}}
-{{< jf-button-item id="221081542440343">}}15-19 août 2022{{< /jf-button-item >}}
-{{< jf-button-item id="221081762623350">}}22-24 août 2022 (3 jours){{< /jf-button-item >}}
+{{< jf-button-item id="221074466527356" disabled=": Terminé">}}25-29 juillet 2022{{< /jf-button-item >}}
+{{< jf-button-item id="221081542440343" disabled=": Terminé">}}15-19 août 2022{{< /jf-button-item >}}
+{{< jf-button-item id="221081762623350" disabled=": Terminé">}}22-24 août 2022 (3 jours){{< /jf-button-item >}}
 {{< /jf-buttons-list >}}
+
+Si le camps auquel vous souhaitez vous inscrire est complet, nous vous recomandons
+de contacter le manège pour voir si un arrangement est possible.

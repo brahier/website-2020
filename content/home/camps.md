@@ -4,10 +4,9 @@ widget = "infobox"
 weight = 30
 class = "dark-blue"
 +++
-## Les inscriptions pour les stages d'initiation sont ouvertes&nbsp;!
+## Les inscriptions pour les camps d'automne sont ouvertes&nbsp;!
 
-* 25 - 29 juillet : [Stage d'initiation pour débutants]({{< ref "camps/stage_debutant" >}})
-* 15 - 19 août : [Stage d'initiation pour débutants]({{< ref "camps/stage_debutant" >}})
-* 22 - 24 août : [Stage d'initiation pour débutants (3 jours)]({{< ref "camps/stage_debutant" >}})
+* 17 - 21 octobre : [Camps de vacances]({{< ref "camps/vacances" >}})
+* 24 - 28 octobre : [Diplôme d'équitation]({{< ref "camps/diplome" >}}) et [brevet combiné]({{< ref "camps/brevet" >}})
 
 <br>
