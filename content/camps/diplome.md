@@ -11,7 +11,7 @@ du 18 au 22 juillet 2022
 
 {{< jf-buttons-list >}}
 {{< jf-button-item id="221071893083354" disabled=": Terminé">}}18-2 juillet 2022{{< /jf-button-item >}}
-{{< jf-button-item id="222396070927359">}}24-28 octobre 2022{{< /jf-button-item >}}
+{{< jf-button-item id="222396070927359" disabled=": Complet">}}24-28 octobre 2022{{< /jf-button-item >}}
 {{< /jf-buttons-list >}}
 
 Si le camps auquel vous souhaitez vous inscrire est complet, nous vous recomandons

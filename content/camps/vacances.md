@@ -80,7 +80,7 @@ Le Centre Equestre décline toutes responsabilités en cas d'accidents ou de mal
 {{< jf-button-item id="221075361204343" disabled=": Terminé">}}11-15 juillet 2022{{< /jf-button-item >}}
 {{< jf-button-item id="221081551917352" disabled=": Terminé">}}1-5 août 2022{{< /jf-button-item >}}
 {{< jf-button-item id="221081744111342" disabled=": Terminé">}}8-12 août 2022{{< /jf-button-item >}}
-{{< jf-button-item id="222396304308352">}}17-21 octobre 2022{{< /jf-button-item >}}
+{{< jf-button-item id="222396304308352" disabled=": Complet">}}17-21 octobre 2022{{< /jf-button-item >}}
 {{< /jf-buttons-list >}}
 
 Si le camps auquel vous souhaitez vous inscrire est complet, nous vous recomandons
