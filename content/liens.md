@@ -4,8 +4,7 @@ title = "Liens"
 weight = -110
 +++
 
-- [Au Parc Hotel, Fribourg](http://www.auparc-hotel.ch/)
-- [La Balzane](http://www.balzane.net/)
+- [Sellerie La Balzane](http://www.labalzane.ch/)
 - [Belmont House Stud, Irland](http://www.belmonthousestud.com/)
 - [Le Cavalier Romand](http://www.cavalier-romand.ch/)
 - [La Commune de Corminboeuf](http://www.corminboeuf.ch/)
@@ -19,7 +18,7 @@ weight = -110
 - [Fédération Suisse des Sports Equestres](http://www.fnch.ch/)
 - [Fribourg Tourisme (Office du Tourisme)](http://www.fribourgtourisme.ch/)
 - [Garage Nicoli, Agence Volvo](http://www.garage-nicoli.ch/)
-- [Gauderon Horses](http://www.gauderon-horses.com/)
+- [Gauderon Vétérinaire](https://www.veterinaire-gauderon.ch/)
 - [Photobujard.com](http://www.photobujard.com/)
 - [Poney Sport Romand](http://www.poneysport.ch/)
 - [J. Schori Cheminées et Canaux SA](https://www.schori-cheminees.ch/)
