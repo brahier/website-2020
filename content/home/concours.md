@@ -3,7 +3,7 @@ id = "info"
 widget = "infobox"
 weight = 29
 class = "dark-blue"
-disabled = 0
+disabled = 1
 +++
 ## Nouveautés / Concours
 
