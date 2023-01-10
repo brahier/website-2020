@@ -1,10 +1,12 @@
 +++
-title = "Liens"
+title = "Liens vers nos partenaires"
 [menu.main]
 weight = -110
+name = "Liens"
 +++
 
-- [Sellerie La Balzane](http://www.labalzane.ch/)
+Par ordre alphabétique :
+
 - [Belmont House Stud, Irland](http://www.belmonthousestud.com/)
 - [Le Cavalier Romand](http://www.cavalier-romand.ch/)
 - [La Commune de Corminboeuf](http://www.corminboeuf.ch/)
@@ -22,3 +24,4 @@ weight = -110
 - [Photobujard.com](http://www.photobujard.com/)
 - [Poney Sport Romand](http://www.poneysport.ch/)
 - [J. Schori Cheminées et Canaux SA](https://www.schori-cheminees.ch/)
+- [Sellerie La Balzane](http://www.labalzane.ch/)
