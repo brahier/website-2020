@@ -2,7 +2,7 @@
 title = "Finales Poneys 2022 et Journée PSR"
 type = "concours-fnch"
 fnch_id = "52847"
-btns_flags = "pilr"
+btns_flags = "plr"
 
 [menu.main]
   parent = "concours_2022"

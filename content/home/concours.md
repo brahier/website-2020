@@ -3,18 +3,13 @@ id = "info"
 widget = "infobox"
 weight = 29
 class = "dark-blue"
-disabled = 1
+disabled = 0
 +++
 ## Nouveautés / Concours
 
-Bonjour,
+Le Centre équestre de Corminboeuf est heureux de vous proposer les manifestations suivantes suivants :
 
-Parcours d'entraînement dès ce dimanche 8 janvier.<br/>
-**Inscriptions obligatoires par message [0793320797](https://wa.me/41793320797)  (Joëlle B).**<br/>
-On vous transmettra les horaires disponibles. Ce dimanche (8 janvier) seulement à partir de 13h30 !<br/>
+- [Parcours d'entraînement janvier-février 2023](/concours/2023/entrainements/)
+- [Journée PSR, RN100 , B100 du 4 au 5 mars 2023](/concours/2023/2023-03-04/)
+- [Journée PSR, B70, B100, J110 du 11 au 12 mars 2023](/concours/2023/2023-03-11/)
 
-On se réjouit de vous accueillir et de recommencer la saison de concours.
-
-Meilleures salutations,
-
-Joëlle B
