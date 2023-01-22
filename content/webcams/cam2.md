@@ -1,5 +1,6 @@
 +++
 title = "Webcam Nouveau manège"
+private = true
 [menu.main]
   weight = -10
   parent = "webcams"

@@ -1,5 +1,6 @@
 +++
 title = "Webcam Manège principal"
+private = true
 [menu.main]
   weight = -20
   parent = "webcams"

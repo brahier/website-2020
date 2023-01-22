@@ -1,4 +1,5 @@
 +++
+private = true
 [menu.main]
   name = "Webcams"
   identifier = "webcams"
