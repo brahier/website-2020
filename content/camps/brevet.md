@@ -17,7 +17,8 @@ Si vous avez des questions, n'hésitez pas à appeler Joêlle Brahier au +41 79 
 ## Dates et inscriptions
 
 {{< jf-buttons-list >}}
-{{< jf-button-item id="230034782219351">}}20-24 février 2023{{< /jf-button-item >}}
+{{< jf-button-item id="230034782219351" disabled=": Complet">}}20-24 février 2023{{< /jf-button-item >}}
+{{< jf-button-item id="230505304932346">}}10-14 juillet 2023{{< /jf-button-item >}}
 {{< /jf-buttons-list >}}
 
 Si le camp auquel vous souhaitez vous inscrire est complet, nous vous recommandons
