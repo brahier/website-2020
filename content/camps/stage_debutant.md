@@ -23,9 +23,11 @@ de midi.
 ## Prix
 
 - Une matinée seule : 35.-
-- Une journée complète : 60.-
+- Une journée complète **{{< fa class="icon solid fa-exclamation-triangle">}}** : 60.- 
 - Tous les matins de la semaine (du lundi au vendredi) : 150.-
-- Forfait pour tous les jours de la semaine (sauf le mercredi après-midi) : 250.-
+- Forfait pour tous les jours de la semaine (sauf le mercredi après-midi) **{{< fa class="icon solid fa-exclamation-triangle">}}** : 250.-
+
+**{{< fa class="icon solid fa-exclamation-triangle">}} Attention, les enfants ne sont pas pris en charge durant la pause de 11h à 14h30**
 
 Pour le camps de 3 jours (22-24 août), le forfait des 3 matinées n'est pas disponible et le forfait pour
 les deux jours et demi est de 140.-
