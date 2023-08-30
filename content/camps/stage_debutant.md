@@ -35,9 +35,9 @@ les deux jours et demi est de 140.-
 ## Dates et inscriptions
 
 {{< jf-buttons-list >}}
-{{< jf-button-item id="230581538952361">}}24 - 28 juillet 2023{{< /jf-button-item >}}
-{{< jf-button-item id="230581887741364">}}7 - 11 août 2023{{< /jf-button-item >}}
-{{< jf-button-item id="230581804015347">}}21 - 24 août 2023{{< /jf-button-item >}}
+{{< jf-button-item id="230581538952361" disabled=": Terminé">}}24 - 28 juillet 2023{{< /jf-button-item >}}
+{{< jf-button-item id="230581887741364" disabled=": Terminé">}}7 - 11 août 2023{{< /jf-button-item >}}
+{{< jf-button-item id="230581804015347" disabled=": Terminé">}}21 - 24 août 2023{{< /jf-button-item >}}
 {{< /jf-buttons-list >}}
 
 Si le camps auquel vous souhaitez vous inscrire est complet, nous vous recomandons
