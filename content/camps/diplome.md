@@ -7,10 +7,11 @@ type = "camp"
 +++
 
 Le prochain camp de formation pour le diplôme d'équitation aura lieu
-du 20 au 24 février 2023
+du 16 au 20 octobre 2023
 
 {{< jf-buttons-list >}}
 {{< jf-button-item id="230505304932346" disabled=": Terminé">}}10-14 juillet 2023{{< /jf-button-item >}}
+{{< jf-button-item id="232415968878373" >}}16-20 octobre 2023{{< /jf-button-item >}}
 {{< /jf-buttons-list >}}
 
 Si le camps auquel vous souhaitez vous inscrire est complet, nous vous recomandons
