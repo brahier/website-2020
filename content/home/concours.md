@@ -7,7 +7,5 @@ disabled = 0
 +++
 ## Nouveautés / Concours
 
-Le Centre équestre de Corminboeuf est heureux de vous proposer les manifestations suivantes :
-
-- [Finales Poneys 2023 et Journée PSR du 4 au 5 novembre 2023](/concours/2023/2023-11-04/)
-
+Les résultats des [finales Poneys 2023 et journée PSR du 4 au 5 novembre 2023](/concours/2023/2023-11-04/)
+sont en ligne.
