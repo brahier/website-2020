@@ -37,11 +37,11 @@ de contacter le manège pour voir si un arrangement est possible.
 
 **Attestation + Diplôme = Diplôme d'équitation**
 
-[Plus d'information sur le site de la Fédération Suisse des Sports Equestres](https://www.fnch.ch/fr/Formation/Formation-de-base.html)
+[Plus d'information sur le site de swiss equestrian](https://www.swiss-equestrian.ch/fr/Formation/Formation-de-base.html)
 
 ## Prix
 
-Prix : 600.- + classeur 39.- + taxes FNCH 100.-
+Prix : 600.- + classeur 39.- + taxes swiss equestrian 100.-
 
 En supplément :
 - Dortoir + repas : 200.-

@@ -17,7 +17,7 @@ Par ordre alphabétique :
 - [Etter Sportpferde AG](http://www.etterhorses.com/)
 - [Fédération Equestre Internationale](http://www.fei.org/)
 - [Fédération Fribourgeoise des Sports Equestres](http://www.ffse.ch/)
-- [Fédération Suisse des Sports Equestres](http://www.fnch.ch/)
+- [Swiss Equestrian](https://www.swiss-equestrian.ch/)
 - [Fribourg Tourisme (Office du Tourisme)](http://www.fribourgtourisme.ch/)
 - [Garage Nicoli, Agence Volvo](http://www.garage-nicoli.ch/)
 - [Gauderon Vétérinaire](https://www.veterinaire-gauderon.ch/)

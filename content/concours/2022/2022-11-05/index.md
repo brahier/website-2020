@@ -1,7 +1,7 @@
 +++
 title = "Finales Poneys 2022 et Journée PSR"
-type = "concours-fnch"
-fnch_id = "52847"
+type = "concours-swiss-equestrian"
+swiss_equestrian_id = "52847"
 btns_flags = "plr"
 
 [menu.main]
@@ -20,5 +20,5 @@ btns_flags = "plr"
 
 {{<admonition>}}
 Vous trouverez toutes les informations concernant cette manifestation
-sur le site de la Fédération Suisse des Sports Equestres avec les liens ci-dessous.
+sur le site Swiss Equestrian avec les liens ci-dessous.
 {{</admonition>}}

@@ -1,0 +1,59 @@
+{{ define "main" }}
+<section class="concours">
+    <header class="main">
+        <h1>{{ .Title }}</h1>
+    </header>
+    {{ .Content }}
+</section>
+
+
+<div class="row">
+
+    {{ if or (not (isset .Params "btns_flags")) (in (upper .Params.btns_flags) "P") }}
+    <div class="col-3 col-6-xlarge col-12-small">
+        <ul class="actions fit">
+            <li>
+                <a href="https://info.swiss-equestrian.ch/#/veranstaltungskalender/ausschreibung/{{ .Params.swiss_equestrian_id }}"
+                    class="button icon solid large fit fa-file-alt">Propositions</a>
+            </li>
+        </ul>
+    </div>
+    {{ end }}
+
+    {{ if or (not (isset .Params "btns_flags")) (in (upper .Params.btns_flags) "I") }}
+    <div class="col-3 col-6-xlarge col-12-small">
+        <ul class="actions fit">
+            <li>
+                <a href="https://my.swiss-equestrian.ch/nennungen/new?veranstaltung_id={{ .Params.swiss_equestrian_id }}"
+                    class="button icon solid large fit fa-edit">Inscriptions</a>
+            </li>
+        </ul>
+    </div>
+    {{ end }}
+
+    {{ if or (not (isset .Params "btns_flags")) (or (in (upper .Params.btns_flags) "L") (in (upper .Params.btns_flags)
+    "S")) }}
+    <div class="col-3 col-6-xlarge col-12-small">
+        <ul class="actions fit">
+            <li>
+                <a href="https://info.swiss-equestrian.ch/#/startlisten/{{ .Params.swiss_equestrian_id }}"
+                    class="button icon solid large fit fa-list-ol">Listes de start</a>
+            </li>
+        </ul>
+    </div>
+    {{ end }}
+
+    {{ if or (not (isset .Params "btns_flags")) (in (upper .Params.btns_flags) "R") }}
+    <div class="col-3 col-6-xlarge col-12-small">
+        <ul class="actions fit">
+            <li>
+                <a href="https://info.swiss-equestrian.ch/#/resultate/veranstaltungen/{{ .Params.swiss_equestrian_id }}"
+                    class="button icon solid large fit fa-medal">Résultats</a>
+            </li>
+        </ul>
+    </div>
+    {{ end }}
+
+</div>
+
+{{ end }}

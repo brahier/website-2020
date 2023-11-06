@@ -10,7 +10,7 @@ Le camp de formation pour le brevet combiné aura lieu
 du 16 au 20 octobre 2023
 au Centre équestre de Corminboeuf. L'examen aura lieu le vendredi après-midi.
 
-Vous trouverez plus d'information concernant le brevet sur le [site de la fédération](https://www.fnch.ch/fr/Sport/Brevets/Combine.html).
+Vous trouverez plus d'information concernant le brevet sur le [site de swiss equestrian](https://www.swiss-equestrian.ch/fr/Sport/Brevets/Combine.html).
 
 Si vous avez des questions, n'hésitez pas à appeler Joêlle Brahier au +41 79 332 07 97.
 
