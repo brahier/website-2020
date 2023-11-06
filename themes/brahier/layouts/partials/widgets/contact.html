@@ -4,15 +4,15 @@
 </header>
 <p>{{ .Content | markdownify }}</p>
 <ul class="contact">
-    <li class="icon solid fa-envelope">{{ delimit .Params.email "<br/>"}}</li>
-    <li class="icon solid fa-phone">{{ delimit .Params.phone "<br/>"}}</li>
-    <li class="icon solid fa-home">{{ .Params.street }}<br />
+    <li class="icon solid fa-envelope">{{ delimit .Params.email "<br />" | markdownify}}</li>
+    <li class="icon solid fa-phone">{{ delimit .Params.phone "<br />" | markdownify }}</li>
+    <li class="icon solid fa-home">{{ .Params.street | markdownify }}<br />
         {{ .Params.city }}</li>
-    <li class="icon solid fa-hashtag">Agate : {{ .Params.agate }}<br />
+    <li class="icon solid fa-hashtag">Agate : {{ .Params.agate | markdownify }}<br />
         BDTA : {{ .Params.bdta }}</li>
     <li class="icon solid fa-money-check-alt">Coordonnés bancaires :<br>
-        {{ .Params.bank_name }}<br>
-        {{ .Params.bank_owner }}<br>
-        {{ .Params.bank_iban }}
+        {{ .Params.bank_name | markdownify }}<br>
+        {{ .Params.bank_owner | markdownify }}<br>
+        {{ .Params.bank_iban | markdownify }}
     </li>
 </ul>
