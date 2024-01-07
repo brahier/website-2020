@@ -12,7 +12,7 @@ title = "Janvier-février 2024 : Parcours d'entraînements"
 ## Dimanches 7, 14, 21, 28 janvier, 4, 11, 18 et 25 février 2024
 
 
-Ces entraînements se dérouleront de 09h00 à maximum 14h00. De 3 degrés chacun :
+Ces entraînements se dérouleront de 09h00 à maximum 15h00. De 3 degrés chacun :
 
 <br/>
 
