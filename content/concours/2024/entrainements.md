@@ -16,11 +16,11 @@ Ces entraînements se dérouleront de 09h00 à maximum 14h00. De 3 degrés chacu
 
 <br/>
 
-| Degré   | Hauteur                  | Heure      |
-|---------|--------------------------|------------|
-| Degré 1 | 50cm à 80cm progressif   | 09h00      |
-| Degré 2 | 90cm à 100cm progressif  | à la suite |
-| Degré 3 | 100cm à 120cm progressif | à la suite |
+| Degré   | Hauteur      |
+|---------|--------------|
+| Degré 1 | 60cm à 80cm  |
+| Degré 2 | 1m           |
+| Degré 3 | 1m10 et plus |
 
 ## Remarques
 
