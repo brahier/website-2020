@@ -76,13 +76,7 @@ Le Centre Equestre décline toutes responsabilités en cas d'accidents ou de mal
 
 ## Dates et inscriptions
 
-{{< jf-buttons-list >}}
-{{< jf-button-item id="230581792816362" disabled=": Terminé">}}17 - 21 juillet{{< /jf-button-item >}}
-{{< jf-button-item id="231191283916356" disabled=": Terminé">}}24 - 28 juillet{{< /jf-button-item >}}
-{{< jf-button-item id="230506088815356" disabled=": Terminé">}}31 juillet - 4 août{{< /jf-button-item >}}
-{{< jf-button-item id="231191722742351" disabled=": Terminé">}}7 - 11 août{{< /jf-button-item >}}
-{{< jf-button-item id="230581590707357" disabled=": Terminé">}}14 - 18 août{{< /jf-button-item >}}
-{{< /jf-buttons-list >}}
+_Les dates seront publiées ultérieurement_
 
 Si le camps auquel vous souhaitez vous inscrire est complet, nous vous recomandons
 de contacter le manège pour voir si un arrangement est possible.
