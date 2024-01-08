@@ -33,5 +33,6 @@ Ces entraînements se dérouleront de 09h00 à maximum 15h00. De 3 degrés chacu
 **Pas de classement !**
 
 - Tenue : Bombe et bottes obligatoires
-- Inscriptions et renseignements par téléphone/sms/whatsapp au +41 79 332 07 97 (Joëlle Brahier)
+- Inscriptions et renseignements par téléphone/sms/whatsapp au +41 79 332 07 97 (Joëlle Brahier Hillereau)
+- **Lors de l'inscription, merci de préciser la hauteur souhaitée (degré)**
 - Paiement 30.- par paire (cavalier/cheval) à payer sur place.
