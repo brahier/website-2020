@@ -1,6 +1,6 @@
 {{ with .Site.Params.firebase }}
 {{ $firebaseUrl := "/__/firebase"}}
-{{ if site.IsServer }}
+{{ if hugo.IsServer }}
 {{ $firebaseUrl = "https://www.gstatic.com/firebasejs"}}
 {{ end }}
 <script src="{{ $firebaseUrl }}/{{ .version }}/firebase-app.js"></script>
