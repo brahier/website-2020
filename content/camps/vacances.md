@@ -76,7 +76,12 @@ Le Centre Equestre décline toutes responsabilités en cas d'accidents ou de mal
 
 ## Dates et inscriptions
 
-_Les dates seront publiées ultérieurement_
+{{< jf-buttons-list >}}
+{{< jf-button-item id="0" disabled="les inscriptions seront bientôt ouvertes">}}8 - 12 avril 2024{{< /jf-button-item >}}
+{{< jf-button-item id="0" disabled="les inscriptions seront bientôt ouvertes">}}22 - 26 juillet 2024{{< /jf-button-item >}}
+{{< jf-button-item id="0" disabled="les inscriptions seront bientôt ouvertes">}}29 juillet - 2 août 2024{{< /jf-button-item >}}
+{{< jf-button-item id="0" disabled="les inscriptions seront bientôt ouvertes">}}12 - 16 août 2024{{< /jf-button-item >}}
+{{< /jf-buttons-list >}}
 
 Si le camps auquel vous souhaitez vous inscrire est complet, nous vous recomandons
 de contacter le manège pour voir si un arrangement est possible.

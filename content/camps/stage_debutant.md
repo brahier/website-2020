@@ -34,7 +34,11 @@ les deux jours et demi est de 140.-
 
 ## Dates et inscriptions
 
-_Les dates seront publiées ultérieurement_
+{{< jf-buttons-list >}}
+{{< jf-button-item id="0" disabled="les inscriptions seront bientôt ouvertes">}}8 - 12 juillet 2024{{< /jf-button-item >}}
+{{< jf-button-item id="0" disabled="les inscriptions seront bientôt ouvertes">}}5 - 9 août 2024{{< /jf-button-item >}}
+{{< jf-button-item id="0" disabled="les inscriptions seront bientôt ouvertes">}}19 - 21 août 2024{{< /jf-button-item >}}
+{{< /jf-buttons-list >}}
 
 Si le camps auquel vous souhaitez vous inscrire est complet, nous vous recomandons
 de contacter le manège pour voir si un arrangement est possible.

@@ -10,7 +10,9 @@ Le prochain camp de formation pour le diplôme d'équitation aura lieu
 du 12 au 16 février 2024
 
 {{< jf-buttons-list >}}
-{{< jf-button-item id="240071851962355">}}12-16 février 2024{{< /jf-button-item >}}
+{{< jf-button-item id="240071851962355">}}12 - 16 février 2024{{< /jf-button-item >}}
+{{< jf-button-item id="0" disabled="les inscriptions seront bientôt ouvertes">}}8 - 12 avril 2024{{< /jf-button-item >}}
+{{< jf-button-item id="0" disabled="les inscriptions seront bientôt ouvertes">}}15 - 19 juillet 2024{{< /jf-button-item >}}
 {{< /jf-buttons-list >}}
 
 Si le camps auquel vous souhaitez vous inscrire est complet, nous vous recomandons
