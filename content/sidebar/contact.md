@@ -1,5 +1,6 @@
 +++
 title = "Contact"
+name = "Centre Equestre Corminboeuf Sàrl"
 street = "rte de Matran 2"
 city = "1720 Corminboeuf, Suisse"
 email = [
@@ -13,8 +14,10 @@ phone = [
 ]
 agate = "3132011"
 bdta = "2174075"
+che = "CHE-349.082.584"
+che_link = "https://www.uid.admin.ch/Detail.aspx?uid_id=CHE-349.082.584"
 bank_name = "Banque Cantonale de Fribourg"
-bank_owner = "Pierre et Ruth Brahier"
-bank_iban = "CH35 0076 8250 1083 2520 4"
+bank_owner = "Centre Equestre Corminboeuf Sàrl"
+bank_iban = "CH23 0076 8300 1728 7110 9"
 +++
 Direction : Pierre et Ruth Brahier
