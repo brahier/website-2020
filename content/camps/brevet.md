@@ -11,7 +11,7 @@ au Centre équestre de Corminboeuf. L'examen ont lieu le vendredi après-midi.
 
 Vous trouverez plus d'information concernant le brevet sur le [site de swiss equestrian](https://www.swiss-equestrian.ch/fr/Sport/Brevets/Combine.html).
 
-Si vous avez des questions, n'hésitez pas à appeler Joêlle Brahier au +41 79 332 07 97.
+Si vous avez des questions, n'hésitez pas à appeler Joëlle Brahier au +41 79 332 07 97.
 
 ## Dates et inscriptions
 
