@@ -29,15 +29,15 @@ de midi.
 
 **{{< fa class="icon solid fa-exclamation-triangle">}} Attention, les enfants ne sont pas pris en charge durant la pause de 11h à 14h30**
 
-Pour le camps de 3 jours (22-24 août), le forfait des 3 matinées n'est pas disponible et le forfait pour
+Pour le camps de 3 jours (19-21 août), le forfait des 3 matinées n'est pas disponible et le forfait pour
 les deux jours et demi est de 140.-
 
 ## Dates et inscriptions
 
 {{< jf-buttons-list >}}
-{{< jf-button-item id="0" disabled="les inscriptions seront bientôt ouvertes">}}8 - 12 juillet 2024{{< /jf-button-item >}}
-{{< jf-button-item id="0" disabled="les inscriptions seront bientôt ouvertes">}}5 - 9 août 2024{{< /jf-button-item >}}
-{{< jf-button-item id="0" disabled="les inscriptions seront bientôt ouvertes">}}19 - 21 août 2024{{< /jf-button-item >}}
+{{< jf-button-item id="241212737636354">}}8 - 12 juillet 2024{{< /jf-button-item >}}
+{{< jf-button-item id="241212546658356">}}5 - 9 août 2024{{< /jf-button-item >}}
+{{< jf-button-item id="241212916775357">}}19 - 21 août 2024{{< /jf-button-item >}}
 {{< /jf-buttons-list >}}
 
 Si le camps auquel vous souhaitez vous inscrire est complet, nous vous recomandons
