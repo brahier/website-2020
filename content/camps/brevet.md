@@ -16,9 +16,7 @@ Si vous avez des questions, n'hésitez pas à appeler Joëlle Brahier au +41 79 
 ## Dates et inscriptions
 
 {{< jf-buttons-list >}}
-{{< jf-button-item id="240071851962355" disabled="les inscriptions sont closes">}}12 - 16 février 2024{{< /jf-button-item >}}
-{{< jf-button-item id="240416111149344" disabled="les inscriptions sont closes">}}8 - 12 avril 2024{{< /jf-button-item >}}
-{{< jf-button-item id="241036233169350">}}15 - 19 juillet 2024{{< /jf-button-item >}}
+{{< jf-button-item id="242592508196363">}}14 - 18 octobre 2024{{< /jf-button-item >}}
 {{< /jf-buttons-list >}}
 
 Si le camp auquel vous souhaitez vous inscrire est complet, nous vous recommandons
