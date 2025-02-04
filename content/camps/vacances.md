@@ -75,12 +75,14 @@ P.S. Ce programme peut être modifié selon le temps ou selon le niveau équestr
 Le Centre Equestre décline toutes responsabilités en cas d'accidents ou de maladie pouvant survenir pendant le camp. Une assurance RC avec "Risque Chevaux" est obligatoire
 
 ## Dates et inscriptions
-
+Les dates seront publiés prochainement.
+<!--
 {{< jf-buttons-list >}}
 {{< jf-button-item id="240915600258352" disabled="terminé">}}22 - 26 juillet 2024{{< /jf-button-item >}}
 {{< jf-button-item id="241036098259359" disabled="terminé">}}29 juillet - 2 août 2024{{< /jf-button-item >}}
 {{< jf-button-item id="241035446752353" disabled="terminé">}}12 - 16 août 2024{{< /jf-button-item >}}
 {{< /jf-buttons-list >}}
+-->
 
 Si le camps auquel vous souhaitez vous inscrire est complet, nous vous recomandons
 de contacter le manège pour voir si un arrangement est possible.

@@ -9,7 +9,7 @@ type = "camp"
 Voici les dates des prochains camps de formation pour le diplôme d'équitation :
 
 {{< jf-buttons-list >}}
-{{< jf-button-item id="242592508196363">}}14 - 18 octobre 2024{{< /jf-button-item >}}
+{{< jf-button-item id="250346754764363">}}21 - 25 avril 2025{{< /jf-button-item >}}
 {{< /jf-buttons-list >}}
 
 Si le camps auquel vous souhaitez vous inscrire est complet, nous vous recomandons
