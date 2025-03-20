@@ -5,7 +5,7 @@ weight = 30
 class = "dark-blue"
 disabled = 0
 +++
-## Les date des camps de vacances sont publiés&nbsp;!
+## Les date des camps de vacances 2025 sont publiés&nbsp;!
 
 * [Camp de vacance]({{< ref "camps/vacances" >}})
 * [Diplôme]({{< ref "camps/diplome" >}})
