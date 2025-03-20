@@ -43,7 +43,7 @@ Cours d'équitation intensifs pour les jeunes valable aussi pour les débutants
     </dt>
     <dt>Jeudi</dt>
         <dd>
-            <p>09H00 petit déjeuner - Soins aux chevaux - cavalettis - saut - promenade - visite du Haras fédéral d'Avenches.</p>
+            <p>09H00 petit déjeuner - Soins aux chevaux - cavalettis - saut - promenade.</p>
         </dd>
     </dt>
     <dt>Vendredi</dt>
@@ -75,14 +75,16 @@ P.S. Ce programme peut être modifié selon le temps ou selon le niveau équestr
 Le Centre Equestre décline toutes responsabilités en cas d'accidents ou de maladie pouvant survenir pendant le camp. Une assurance RC avec "Risque Chevaux" est obligatoire
 
 ## Dates et inscriptions
-Les dates seront publiés prochainement.
-<!--
+
 {{< jf-buttons-list >}}
-{{< jf-button-item id="240915600258352" disabled="terminé">}}22 - 26 juillet 2024{{< /jf-button-item >}}
-{{< jf-button-item id="241036098259359" disabled="terminé">}}29 juillet - 2 août 2024{{< /jf-button-item >}}
-{{< jf-button-item id="241035446752353" disabled="terminé">}}12 - 16 août 2024{{< /jf-button-item >}}
+{{< jf-button-item id="250763557024356">}}28 avril - 2 mai 2025 (Camps Pique-Nique){{< /jf-button-item >}}
+{{< jf-button-item id="250756169639369" next="bientôt dispobible">}}7 - 11 juillet 2025{{< /jf-button-item >}}
+{{< jf-button-item id="250786598024366" next="bientôt dispobible">}}14 - 18 juillet 2025 (Camps Pique-Nique){{< /jf-button-item >}}
+{{< jf-button-item id="250786712244358" next="bientôt dispobible">}}28 juillet - 2 août 2025{{< /jf-button-item >}}
+{{< jf-button-item id="250787437481366" next="bientôt dispobible">}}4 - 8 août 2025{{< /jf-button-item >}}
+{{< jf-button-item id="250786831029361" next="bientôt dispobible">}}11 - 15 août 2025{{< /jf-button-item >}}
+{{< jf-button-item id="250787655766374" next="bientôt dispobible">}}18 - 22 août 2025 (Camps Pique-Nique){{< /jf-button-item >}}
 {{< /jf-buttons-list >}}
--->
 
 Si le camps auquel vous souhaitez vous inscrire est complet, nous vous recomandons
 de contacter le manège pour voir si un arrangement est possible.

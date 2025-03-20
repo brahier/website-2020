@@ -16,7 +16,8 @@ Si vous avez des questions, n'hésitez pas à appeler Joëlle Brahier au +41 79 
 ## Dates et inscriptions
 
 {{< jf-buttons-list >}}
-{{< jf-button-item id="250346754764363">}}21 - 25 avril 2025{{< /jf-button-item >}}
+{{< jf-button-item id="250346754764363" disabled="complet">}}21 - 25 avril 2025{{< /jf-button-item >}}
+{{< jf-button-item id="250756485353363" next="bientôt disponible">}}21 - 25 juillet 2025{{< /jf-button-item >}}
 {{< /jf-buttons-list >}}
 
 Si le camp auquel vous souhaitez vous inscrire est complet, nous vous recommandons
