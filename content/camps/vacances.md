@@ -78,12 +78,12 @@ Le Centre Equestre décline toutes responsabilités en cas d'accidents ou de mal
 
 {{< jf-buttons-list >}}
 {{< jf-button-item id="250763557024356">}}28 avril - 2 mai 2025 (Camps Pique-Nique){{< /jf-button-item >}}
-{{< jf-button-item id="250756169639369" next="bientôt dispobible">}}7 - 11 juillet 2025{{< /jf-button-item >}}
-{{< jf-button-item id="250786598024366" next="bientôt dispobible">}}14 - 18 juillet 2025 (Camps Pique-Nique){{< /jf-button-item >}}
-{{< jf-button-item id="250786712244358" next="bientôt dispobible">}}28 juillet - 2 août 2025{{< /jf-button-item >}}
-{{< jf-button-item id="250787437481366" next="bientôt dispobible">}}4 - 8 août 2025{{< /jf-button-item >}}
-{{< jf-button-item id="250786831029361" next="bientôt dispobible">}}11 - 15 août 2025{{< /jf-button-item >}}
-{{< jf-button-item id="250787655766374" next="bientôt dispobible">}}18 - 22 août 2025 (Camps Pique-Nique){{< /jf-button-item >}}
+{{< jf-button-item id="250756169639369">}}7 - 11 juillet 2025{{< /jf-button-item >}}
+{{< jf-button-item id="250786598024366">}}14 - 18 juillet 2025 (Camps Pique-Nique){{< /jf-button-item >}}
+{{< jf-button-item id="250786712244358">}}28 juillet - 2 août 2025{{< /jf-button-item >}}
+{{< jf-button-item id="250787437481366">}}4 - 8 août 2025{{< /jf-button-item >}}
+{{< jf-button-item id="250786831029361">}}11 - 15 août 2025{{< /jf-button-item >}}
+{{< jf-button-item id="250787655766374">}}18 - 22 août 2025 (Camps Pique-Nique){{< /jf-button-item >}}
 {{< /jf-buttons-list >}}
 
 Si le camps auquel vous souhaitez vous inscrire est complet, nous vous recomandons
