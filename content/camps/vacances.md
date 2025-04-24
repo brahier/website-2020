@@ -77,7 +77,6 @@ Le Centre Equestre décline toutes responsabilités en cas d'accidents ou de mal
 ## Dates et inscriptions
 
 {{< jf-buttons-list >}}
-{{< jf-button-item id="250763557024356">}}28 avril - 2 mai 2025 (Camps Pique-Nique){{< /jf-button-item >}}
 {{< jf-button-item id="250756169639369">}}7 - 11 juillet 2025{{< /jf-button-item >}}
 {{< jf-button-item id="250786598024366">}}14 - 18 juillet 2025 (Camps Pique-Nique){{< /jf-button-item >}}
 {{< jf-button-item id="250786712244358">}}28 juillet - 2 août 2025{{< /jf-button-item >}}
