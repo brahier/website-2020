@@ -7,7 +7,7 @@ disabled = 0
 +++
 ## Les date des camps de vacances 2025 sont publiés&nbsp;!
 
-* [Camp de vacance]({{< ref "camps/vacances" >}})
+* [Camps de vacances]({{< ref "camps/vacances" >}})
 * [Diplôme]({{< ref "camps/diplome" >}})
 * [Brevet]({{< ref "camps/brevet" >}})
 * [Stages d'initiation à l'équitation]({{< ref "camps/stage_debutant" >}})
