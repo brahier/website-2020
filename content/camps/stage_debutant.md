@@ -34,7 +34,7 @@ de midi.
 ## Dates et inscriptions
 
 {{< jf-buttons-list >}}
-{{< jf-button-item id="250915928890368">}}25, 26, 27 août 2025{{< /jf-button-item >}}
+{{< jf-button-item id="250915928890368" disabled="complet">}}25, 26, 27 août 2025{{< /jf-button-item >}}
 {{< /jf-buttons-list >}}
 
 Si le camps auquel vous souhaitez vous inscrire est complet, nous vous recomandons
