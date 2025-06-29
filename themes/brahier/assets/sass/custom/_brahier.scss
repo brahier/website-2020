@@ -100,3 +100,36 @@ dl dt {
     pointer-events: none;
     opacity: .5;
 }
+
+button.twint {
+    width: auto;
+    height: 55px;
+    border-radius: 6px;
+    display: flex;
+    justify-content: center;
+    cursor: pointer;
+    background-color: black;
+    border: none;
+    align-items: center;
+ 
+    img {
+       width: auto;
+        height: 55px;
+    }
+
+    @include breakpoint('<=xlarge') {
+        height: 50px;
+        img {
+            height: 50px;
+        }
+    }
+
+    @include breakpoint('<=large') {
+        height: 40px;
+        img {
+            height: 40px;
+        }
+    }
+
+
+}

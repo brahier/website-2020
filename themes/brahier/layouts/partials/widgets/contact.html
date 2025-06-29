@@ -13,10 +13,16 @@
     <li class="icon solid fa-hashtag">
         <a href="{{ .Params.che_link }}" target="_blank">{{ .Params.che | markdownify }}</a><br />
         Agate : {{ .Params.agate | markdownify }}<br />
-        BDTA : {{ .Params.bdta }}</li>
+        BDTA : {{ .Params.bdta }}
+    </li>
     <li class="icon solid fa-money-check-alt">Coordonnés bancaires :<br>
         {{ .Params.bank_name | markdownify }}<br>
         {{ .Params.bank_owner | markdownify }}<br>
         {{ .Params.bank_iban | markdownify }}
     </li>
+
+
 </ul>
+<button class="twint"
+    onclick="window.open('https://go.twint.ch/1/e/tw?tw=acq.11sYTNftRsKWU85xIo6j46DsB_2H082jif67QtfJTuudWN39KCoHu6tC5_fatepZ.', '_blank')">
+    <img alt="bouton TWINT" src="https://go.twint.ch/static/img/button_dark_fr.svg" /></button>
