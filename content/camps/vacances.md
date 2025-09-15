@@ -77,12 +77,12 @@ Le Centre Equestre décline toutes responsabilités en cas d'accidents ou de mal
 ## Dates et inscriptions
 
 {{< jf-buttons-list >}}
-{{< jf-button-item id="250756169639369">}}7 - 11 juillet 2025{{< /jf-button-item >}}
-{{< jf-button-item id="250786598024366">}}14 - 18 juillet 2025 (Camps de jour tous niveaux){{< /jf-button-item >}}
-{{< jf-button-item id="250786712244358">}}28 juillet - 2 août 2025{{< /jf-button-item >}}
-{{< jf-button-item id="250787437481366">}}4 - 8 août 2025{{< /jf-button-item >}}
-{{< jf-button-item id="250786831029361">}}11 - 15 août 2025{{< /jf-button-item >}}
-{{< jf-button-item id="250787655766374">}}18 - 22 août 2025 (Camps de jour tous niveaux){{< /jf-button-item >}}
+{{< jf-button-item id="250756169639369" disabled="complet">}}7 - 11 juillet 2025{{< /jf-button-item >}}
+{{< jf-button-item id="250786598024366" disabled="complet">}}14 - 18 juillet 2025 (Camps de jour tous niveaux){{< /jf-button-item >}}
+{{< jf-button-item id="250786712244358" disabled="complet">}}28 juillet - 2 août 2025{{< /jf-button-item >}}
+{{< jf-button-item id="250787437481366" disabled="complet">}}4 - 8 août 2025{{< /jf-button-item >}}
+{{< jf-button-item id="250786831029361" disabled="complet">}}11 - 15 août 2025{{< /jf-button-item >}}
+{{< jf-button-item id="250787655766374" disabled="complet">}}18 - 22 août 2025 (Camps de jour tous niveaux){{< /jf-button-item >}}
 {{< /jf-buttons-list >}}
 
 Si le camps auquel vous souhaitez vous inscrire est complet, nous vous recomandons
