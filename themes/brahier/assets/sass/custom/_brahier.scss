@@ -133,3 +133,33 @@ button.twint {
 
 
 }
+
+button.twint-main {
+    width: auto;
+    height: 55px;
+    border-radius: 6px;
+    display: flex;
+    justify-content: center;
+    cursor: pointer;
+    background-color: #262626;
+    border: none;
+    align-items: center;
+ 
+    img {
+       width: auto;
+        height: 55px;
+    }
+
+    @include breakpoint('>=xlarge') {
+        visibility: hidden;
+    }
+
+    @include breakpoint('<large') {
+        height: 40px;
+        img {
+            height: 40px;
+        }
+    }
+
+
+}

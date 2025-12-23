@@ -4,5 +4,7 @@ title = "Concours 2023"
 name = "Concours 2023"
 identifier = "concours_2023"
 url = "#"
-weight = -177
+weight = -123
+[menu.main.params]
+disabled = 1
 +++

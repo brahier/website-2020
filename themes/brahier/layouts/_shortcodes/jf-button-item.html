@@ -4,7 +4,10 @@
     {{ else if (.Get "next") }}
     <span class="button next">{{ .Inner }} : {{ with .Get "next" }} {{ . }} {{ end }}</span>
     {{ else }}
-    <a {{ with .Get "id" }} class="button camp-button" data-jf-id="{{ . }}" href="https://form.jotform.com/{{ . }}"
-        target="_blank" {{ end }}>{{ .Inner }}{{ with .Get "id" }}<span class="jf-info"></span>{{ end }}</a>
+    {{ $id := .Get "id" }}
+    {{ $until := .Get "until" }}
+    <a class="button camp-button" data-jf-id="{{ $id }}" {{ if $until }}data-until="{{ $until }}" {{ end }}
+        href="https://form.jotform.com/{{ $id }}" target="_blank">{{
+        .Inner }}<span class="jf-info"></span></a>
     {{ end}}
 </li>

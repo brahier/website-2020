@@ -6,7 +6,7 @@ title = "Janvier-février 2023 : Parcours d'entraînements"
   name = "Entraînements 2023"
   weight = 10
 [menu.main.params]
-  disabled = 0
+  disabled = 1
 +++
 
 ## Dimanches 8, 15, 22, 29 janvier, 5, 12, 19 et 26 février 2023
@@ -18,7 +18,7 @@ Ces entraînements se dérouleront de 09h00 à maximum 14h00. De 3 degrés chacu
 <br/>
 
 | Degré   | Hauteur                  | Heure      |
-| ------- | ------------------------ | ---------- |
+|---------|--------------------------|------------|
 | Degré 1 | 50cm à 80cm progressif   | 09h00      |
 | Degré 2 | 90cm à 100cm progressif  | à la suite |
 | Degré 3 | 100cm à 120cm progressif | à la suite |

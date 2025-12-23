@@ -1,0 +1,5 @@
+{{ with .Params.twint_url }}
+<button class="twint-main" onclick="window.open('{{ . }}', '_blank')">
+    <img alt="bouton TWINT" src="https://go.twint.ch/static/img/button_dark_fr.svg" />
+</button>
+{{ end }}
