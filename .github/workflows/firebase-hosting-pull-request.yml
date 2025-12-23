@@ -15,15 +15,15 @@ jobs:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: '0.122.0'
+          hugo-version: "0.153.2"
           extended: true
       - name: Build
         run: hugo --minify
       - uses: FirebaseExtended/action-hosting-deploy@v0
         with:
-          repoToken: '${{ secrets.GITHUB_TOKEN }}'
-          firebaseServiceAccount: '${{ secrets.FIREBASE_SERVICE_ACCOUNT_BRAHIER_CH }}'
+          repoToken: "${{ secrets.GITHUB_TOKEN }}"
+          firebaseServiceAccount: "${{ secrets.FIREBASE_SERVICE_ACCOUNT_BRAHIER_CH }}"
           projectId: brahier-ch
-          channelId: 'preview-${{ github.run_number }}'
+          channelId: "preview-${{ github.run_number }}"
         env:
           FIREBASE_CLI_PREVIEWS: hostingchannels
