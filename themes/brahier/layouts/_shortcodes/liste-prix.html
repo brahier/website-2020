@@ -1,0 +1,24 @@
+{{ range page.Params.price_list }}
+
+<h2>{{ .name }}</h2>
+
+<table class="liste-prix">
+    <thead>
+        <tr>
+            <th>Pestation</th>
+            <th></th>
+            <th>Prix</th>
+        </tr>
+    </thead>
+    <tbody>
+        {{ range .data }}
+        <tr>
+            <td>{{ index . 0 | markdownify}} </td>
+            <td>{{ index . 1 }}</td>
+            <td>{{ index . 2 }}&nbsp;{{ if eq (index . 2) "sur demande" }}{{ else }}CHF{{ end }}</td>
+        </tr>
+        {{ end }}
+    </tbody>
+</table>
+
+{{ end }}

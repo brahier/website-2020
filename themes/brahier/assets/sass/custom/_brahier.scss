@@ -160,6 +160,10 @@ button.twint-main {
             height: 40px;
         }
     }
-
-
 }
+
+table.liste-prix td:nth-child(3) { text-align: end; }
+table.liste-prix th:nth-child(3) { text-align: end; }
+
+table.liste-prix td:nth-child(2) { width: 6em; }
+table.liste-prix td:nth-child(3) { width: 8em; }
