@@ -11,9 +11,9 @@ parent = "liste-prix"
 [[params.price_list]]
 name = "Pensions"
 data =  [
-    ["PENSION BOXE", "mois", "900.00"],
-    ["PENSION NOUVEAU BOXE", "mois", "1'000.00"],
-    ["PENSION BOXE TERRASSE", "mois", "1170.00"],
+    ["Pension boxe", "mois", "900.00"],
+    ["Pension nouveau boxe", "mois", "1'000.00"],
+    ["Pension boxe terrasse", "mois", "1170.00"],
     ["Supplément copeaux", "mois", "50.00"],
     ["Supplément ration de foin", "mois", "50.00"],
     ["Mise carrousel forfait mensuel", "mois", "100.00"],
@@ -43,15 +43,15 @@ data =  [
 name = "Cavaliers de l'extérieur"
 data =  [
     ["Supplément par cours", "nbre", "10.00"],
-    ["Utilisation des manèges et paddock", "par cheval", "20.00"],
+    ["Utilisation des manèges et paddock (par cheval)", "nbre", "20.00"],
 ]
 
 [[params.price_list]]
 name = "Packs"
 data =  [
-    ["Pack 1 : COURS EN GROUPE \"MONITEURS\"<br>1x dressage/semaine + 1x saut/semaine", "mois", "240.00"],
-    ["Pack 2  : COURS EN GROUPE \"BRAHIER\"<br>1x dressage/semaine + 1x saut/semaine", "mois", "340.00"],
-    ["Pack GOLD : COURS EN GROUPE - LONGE OU PROMENADE PAR LE PERSONNEL<br>2x promener ou longer / semaine par le personnel<br>1x dressage/semaine + 1x saut/semaine", "mois", "500.00"],
+    ["Pack 1 : Cours en groupe \"Moniteurs\"<br>1x dressage/semaine + 1x saut/semaine", "mois", "240.00"],
+    ["Pack 2  : Cours en groupe \"Brahier\"<br>1x dressage/semaine + 1x saut/semaine", "mois", "340.00"],
+    ["Pack GOLD : Cours en groupe - Longe ou promenade par le personnel<br>2x promener ou longer / semaine par le personnel<br>1x dressage/semaine + 1x saut/semaine", "mois", "500.00"],
 ]
 
 [[params.price_list]]
