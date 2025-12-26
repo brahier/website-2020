@@ -37,7 +37,13 @@ data =  [
     ["Leçon de saut en groupe", "nbre", "50.00"],
     ["Leçon privée \"Brahier\"", "nbre", "60.00"],
     ["Leçon privée \"Moniteurs\"", "nbre", "60.00"],
-    ["Supplément pour chevaux de l'extérieur", "par cours", "10.00"],
+]
+
+[[params.price_list]]
+name = "Cavaliers de l'extérieur"
+data =  [
+    ["Supplément par cours", "nbre", "10.00"],
+    ["Utilisation des manèges et paddock", "par cheval", "20.00"],
 ]
 
 [[params.price_list]]
