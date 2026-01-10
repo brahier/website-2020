@@ -35,4 +35,6 @@ Ces entraînements se dérouleront de 09h00 à maximum 15h00. De 3 degrés chacu
 - Tenue : Bombe et bottes obligatoires
 - Inscriptions et renseignements par téléphone/sms/whatsapp au +41 79 332 07 97 (Joëlle Brahier Hillereau)
 - **Lors de l'inscription, merci de préciser la hauteur souhaitée (degré)**
-- Paiement 30.- par paire (cavalier/cheval) à payer sur place **par TWINT**.
+- Paiement 30.- par paire (cavalier/cheval) à payer sur place **par [TWINT](https://go.twint.ch/1/e/tw?tw=acq.11sYTNftRsKWU85xIo6j46DsB_2H082jif67QtfJTuudWN39KCoHu6tC5_fatepZ.)**.
+
+{{<twint url="https://go.twint.ch/1/e/tw?tw=acq.11sYTNftRsKWU85xIo6j46DsB_2H082jif67QtfJTuudWN39KCoHu6tC5_fatepZ." >}}
