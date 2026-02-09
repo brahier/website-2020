@@ -33,9 +33,16 @@ de midi.
 
 ## Dates et inscriptions
 
+<!--
 {{< jf-buttons-list >}}
 {{< jf-button-item id="250915928890368" disabled="complet">}}25, 26, 27 août 2025{{< /jf-button-item >}}
 {{< /jf-buttons-list >}}
+-->
+
+{{<admonition>}}
+Les dates des camps de vacances pour l'été 2026 seront bientôt disponibles ici.
+{{</admonition>}}
+
 
 Si le camps auquel vous souhaitez vous inscrire est complet, nous vous recomandons
 de contacter le manège pour voir si un arrangement est possible.
