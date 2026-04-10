@@ -1,14 +1,17 @@
-author = "Jacques Supcik"
 description = ""
 favicon = "/favicon.ico"
 
+[author]
+name = "Jacques Supcik"
+email = "jacques@supcik.net"
+
 [firebase]
-    apiKey = "AIzaSyAO1b4BoYrjulKdELNjDHqM943uk8F-Fg0"
-    projectId = "brahier-ch"
-    messagingSenderId = "373862633172"
-    appId = "1:373862633172:web:05f6d774d5110cb1a23541"
-    measurementId = "G-MQC8M1RYWD"
-    version = "8.3.0"
+apiKey = "AIzaSyAO1b4BoYrjulKdELNjDHqM943uk8F-Fg0"
+projectId = "brahier-ch"
+messagingSenderId = "373862633172"
+appId = "1:373862633172:web:05f6d774d5110cb1a23541"
+measurementId = "G-MQC8M1RYWD"
+version = "8.3.0"
 
 [social]
-    facebook = "centre.equestre.corminboeuf"
+facebook = "centre.equestre.corminboeuf"

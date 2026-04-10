@@ -16,7 +16,7 @@ Si vous avez des questions, n'hésitez pas à appeler Joëlle Brahier au +41 79 
 ## Dates et inscriptions
 
 {{< jf-buttons-list >}}
-{{< jf-button-item id="260393918451361" until="2026-04-03">}}6 - 10 avril 2026{{< /jf-button-item >}}
+{{< jf-button-item id="260993421605357">}}20 - 24 juillet 2026{{< /jf-button-item >}}
 {{< /jf-buttons-list >}}
 
 Si le camp auquel vous souhaitez vous inscrire est complet, nous vous recommandons

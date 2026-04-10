@@ -3,3 +3,4 @@
 /.firebase
 ui-debug.log
 .*.lock
+.env
