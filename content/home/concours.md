@@ -9,3 +9,5 @@ disabled = 0
 
 - Informations concernant les [parcours d'entraînement 2026](/concours/2026/entrainements)
 - Les inscriptions pour le [brevet](/camps/brevet) et pour le [diplôme](/camps/diplome) d'équitation du **20 au 24 juillet 2026** sont ouvertes !
+- Les inscriptions pour les [camps de vacances](/camps/vacances) sont ouvertes !
+- Les inscriptions pour le [stage d'initiation à l'équitation](/camps/stage_debutant) sont ouvertes !
